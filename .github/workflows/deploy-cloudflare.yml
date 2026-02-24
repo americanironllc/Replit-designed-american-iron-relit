@@ -5,6 +5,8 @@ name: Deploy to Cloudflare Pages
 #                             * Account > Cloudflare Pages > Edit
 #                             * User > User Details > Read
 #   CLOUDFLARE_ACCOUNT_ID - Cloudflare Account ID (found in the dashboard sidebar)
+# Optional GitHub repository variable:
+#   CLOUDFLARE_PAGES_PROJECT - Cloudflare Pages project name (defaults to repo name)
 
 on:
   push:
@@ -18,6 +20,8 @@ jobs:
     permissions:
       contents: read
       deployments: write
+    env:
+      CLOUDFLARE_PAGES_PROJECT: ${{ vars.CLOUDFLARE_PAGES_PROJECT || github.event.repository.name }}
 
     steps:
       - name: Checkout
@@ -53,9 +57,20 @@ jobs:
             exit 1
           }
 
+      - name: Ensure Cloudflare Pages project exists
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          PROJECT_NAME="$CLOUDFLARE_PAGES_PROJECT"
+          export PROJECT_NAME
+          if ! npx wrangler@3 pages project list --json | node -e 'const fs = require("fs"); const data = JSON.parse(fs.readFileSync(0, "utf8")); const projects = Array.isArray(data) ? data : data.result || []; const name = process.env.PROJECT_NAME; if (!projects.some((project) => project.name === name)) process.exit(1);'; then
+            npx wrangler@3 pages project create "$PROJECT_NAME" --production-branch=main
+          fi
+
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy dist/public --project-name=american-iron --commit-dirty=true
+          command: pages deploy dist/public --project-name=${{ env.CLOUDFLARE_PAGES_PROJECT }} --commit-dirty=true
