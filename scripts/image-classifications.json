@@ -1,0 +1,4877 @@
+[
+  {
+    "file": "part-0001.png",
+    "category": "Gaskets & Seals",
+    "partType": "rubber air spring / bellows seal"
+  },
+  {
+    "file": "part-0002.png",
+    "category": "Ground Engaging Tools",
+    "partType": "excavator bucket"
+  },
+  {
+    "file": "part-0003.png",
+    "category": "Electrical",
+    "partType": "heavy duty battery"
+  },
+  {
+    "file": "part-0004.png",
+    "category": "Bearings",
+    "partType": "tapered roller bearing"
+  },
+  {
+    "file": "part-0005.png",
+    "category": "Engine Components",
+    "partType": "engine piston and cylinder liner kit"
+  },
+  {
+    "file": "part-0006.png",
+    "category": "Filters",
+    "partType": "spin-on oil filter"
+  },
+  {
+    "file": "part-0007.png",
+    "category": "Air Inlet & Exhaust",
+    "partType": "muffler / exhaust silencer"
+  },
+  {
+    "file": "part-0008.png",
+    "category": "Air Inlet & Exhaust",
+    "partType": "exhaust manifold"
+  },
+  {
+    "file": "part-0009.png",
+    "category": "Filters",
+    "partType": "air filter housing"
+  },
+  {
+    "file": "part-0010.png",
+    "category": "Air Inlet & Exhaust",
+    "partType": "exhaust manifold"
+  },
+  {
+    "file": "part-0011.png",
+    "category": "Air Inlet & Exhaust",
+    "partType": "engine exhaust manifold / exhaust elbow fittings"
+  },
+  {
+    "file": "part-0012.png",
+    "category": "Air Inlet & Exhaust",
+    "partType": "exhaust muffler"
+  },
+  {
+    "file": "part-0013.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic cylinder"
+  },
+  {
+    "file": "part-0014.png",
+    "category": "Air Inlet & Exhaust",
+    "partType": "exhaust pipe elbows and stacks"
+  },
+  {
+    "file": "part-0015.png",
+    "category": "Hardware",
+    "partType": "hose clamps"
+  },
+  {
+    "file": "part-0016.png",
+    "category": "Filters",
+    "partType": "filter (canister housing)"
+  },
+  {
+    "file": "part-0017.png",
+    "category": "Turbochargers",
+    "partType": "turbocharger"
+  },
+  {
+    "file": "part-0018.png",
+    "category": "Hardware",
+    "partType": "protective cover/guard plate"
+  },
+  {
+    "file": "part-0019.png",
+    "category": "Bearings",
+    "partType": "flanged bushing (bearing sleeve)"
+  },
+  {
+    "file": "part-0020.png",
+    "category": "Cooling System",
+    "partType": "radiator"
+  },
+  {
+    "file": "part-0021.png",
+    "category": "Turbochargers",
+    "partType": "turbocharger cartridge (CHRA)"
+  },
+  {
+    "file": "part-0022.png",
+    "category": "Bearings",
+    "partType": "needle roller bearing"
+  },
+  {
+    "file": "part-0023.png",
+    "category": "Bearings",
+    "partType": "roller bearing"
+  },
+  {
+    "file": "part-0024.png",
+    "category": "Gaskets & Seals",
+    "partType": "oil seal"
+  },
+  {
+    "file": "part-0025.png",
+    "category": "Bearings",
+    "partType": "bushings"
+  },
+  {
+    "file": "part-0026.png",
+    "category": "Bearings",
+    "partType": "bushing (sleeve bearing)"
+  },
+  {
+    "file": "part-0027.png",
+    "category": "Bearings",
+    "partType": "Bushing (sleeve bearing)"
+  },
+  {
+    "file": "part-0028.png",
+    "category": "Bearings",
+    "partType": "bushing (plain bearing sleeve)"
+  },
+  {
+    "file": "part-0029.png",
+    "category": "Bearings",
+    "partType": "tapered roller bearing"
+  },
+  {
+    "file": "part-0030.png",
+    "category": "Bearings",
+    "partType": "bearing bushing (sleeve)"
+  },
+  {
+    "file": "part-0031.png",
+    "category": "Bearings",
+    "partType": "spherical plain bearing"
+  },
+  {
+    "file": "part-0032.png",
+    "category": "Bearings",
+    "partType": "roller bearing"
+  },
+  {
+    "file": "part-0033.png",
+    "category": "Bearings",
+    "partType": "needle roller bearing"
+  },
+  {
+    "file": "part-0034.png",
+    "category": "Bearings",
+    "partType": "tapered roller bearing and races"
+  },
+  {
+    "file": "part-0035.png",
+    "category": "Bearings",
+    "partType": "roller bearing"
+  },
+  {
+    "file": "part-0036.png",
+    "category": "Bearings",
+    "partType": "roller bearings (needle/roller bearing assemblies)"
+  },
+  {
+    "file": "part-0037.png",
+    "category": "Belts & Hoses",
+    "partType": "drive belt (V-belt)"
+  },
+  {
+    "file": "part-0038.png",
+    "category": "Bearings",
+    "partType": "idler pulley bearing"
+  },
+  {
+    "file": "part-0039.png",
+    "category": "Belts & Hoses",
+    "partType": "drive belt (V-belt set)"
+  },
+  {
+    "file": "part-0040.png",
+    "category": "Belts & Hoses",
+    "partType": "ribbed drive belt (serpentine belt)"
+  },
+  {
+    "file": "part-0041.png",
+    "category": "Belts & Hoses",
+    "partType": "drive belt (serpentine belt)"
+  },
+  {
+    "file": "part-0042.png",
+    "category": "Undercarriage",
+    "partType": "track rollers / idlers (undercarriage rollers)"
+  },
+  {
+    "file": "part-0043.png",
+    "category": "Belts & Hoses",
+    "partType": "ribbed drive belt (serpentine/V-belt)"
+  },
+  {
+    "file": "part-0044.png",
+    "category": "Undercarriage",
+    "partType": "undercarriage track roller"
+  },
+  {
+    "file": "part-0045.png",
+    "category": "Belts & Hoses",
+    "partType": "drive belt (serpentine/V-belt)"
+  },
+  {
+    "file": "part-0046.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic pump/motor cartridge"
+  },
+  {
+    "file": "part-0047.png",
+    "category": "Belts & Hoses",
+    "partType": "rubber hoses and couplers"
+  },
+  {
+    "file": "part-0048.png",
+    "category": "Belts & Hoses",
+    "partType": "rubber hose (radiator/coolant hose)"
+  },
+  {
+    "file": "part-0049.png",
+    "category": "Belts & Hoses",
+    "partType": "radiator hose"
+  },
+  {
+    "file": "part-0050.png",
+    "category": "Bearings",
+    "partType": "bushing"
+  },
+  {
+    "file": "part-0051.png",
+    "category": "Belts & Hoses",
+    "partType": "hose (rubber tube)"
+  },
+  {
+    "file": "part-0052.png",
+    "category": "Belts & Hoses",
+    "partType": "hose (rubber)"
+  },
+  {
+    "file": "part-0053.png",
+    "category": "Gaskets & Seals",
+    "partType": "rubber grommet seal"
+  },
+  {
+    "file": "part-0054.png",
+    "category": "Belts & Hoses",
+    "partType": "rubber hose"
+  },
+  {
+    "file": "part-0055.png",
+    "category": "Hardware",
+    "partType": "hose clamp"
+  },
+  {
+    "file": "part-0056.png",
+    "category": "Belts & Hoses",
+    "partType": "hose (assembly)"
+  },
+  {
+    "file": "part-0057.png",
+    "category": "Hardware",
+    "partType": "band clamp"
+  },
+  {
+    "file": "part-0058.png",
+    "category": "Hardware",
+    "partType": "hose clamp"
+  },
+  {
+    "file": "part-0059.png",
+    "category": "Hardware",
+    "partType": "pipe clamp"
+  },
+  {
+    "file": "part-0060.png",
+    "category": "Hardware",
+    "partType": "worm-drive hose clamp"
+  },
+  {
+    "file": "part-0061.png",
+    "category": "Hardware",
+    "partType": "hose clamp"
+  },
+  {
+    "file": "part-0062.png",
+    "category": "Hardware",
+    "partType": "mounting clamp/bracket"
+  },
+  {
+    "file": "part-0063.png",
+    "category": "Hardware",
+    "partType": "hose clamp"
+  },
+  {
+    "file": "part-0064.png",
+    "category": "Braking & Friction",
+    "partType": "disc brake caliper assembly"
+  },
+  {
+    "file": "part-0065.png",
+    "category": "Gaskets & Seals",
+    "partType": "seal kit (o-rings and oil seals)"
+  },
+  {
+    "file": "part-0066.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic valve body"
+  },
+  {
+    "file": "part-0067.png",
+    "category": "Electrical",
+    "partType": "starter motor solenoid"
+  },
+  {
+    "file": "part-0068.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic control valve assembly"
+  },
+  {
+    "file": "part-0069.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic control valve lever assembly"
+  },
+  {
+    "file": "part-0070.png",
+    "category": "Ground Engaging Tools",
+    "partType": "ripper shank"
+  },
+  {
+    "file": "part-0071.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic valve"
+  },
+  {
+    "file": "part-0072.png",
+    "category": "Bearings",
+    "partType": "bushing (sleeve bearing)"
+  },
+  {
+    "file": "part-0073.png",
+    "category": "Braking & Friction",
+    "partType": "brake pad"
+  },
+  {
+    "file": "part-0074.png",
+    "category": "Braking & Friction",
+    "partType": "brake friction lining (pad/shoe segment)"
+  },
+  {
+    "file": "part-0075.png",
+    "category": "Undercarriage",
+    "partType": "undercarriage track shoe / track pad"
+  },
+  {
+    "file": "part-0076.png",
+    "category": "Undercarriage",
+    "partType": "track link assembly (undercarriage link)"
+  },
+  {
+    "file": "part-0077.png",
+    "category": "Braking & Friction",
+    "partType": "brake friction pad"
+  },
+  {
+    "file": "part-0078.png",
+    "category": "Gaskets & Seals",
+    "partType": "seal kit (o-rings and springs)"
+  },
+  {
+    "file": "part-0079.png",
+    "category": "Bearings",
+    "partType": "bearing shell (plain bearing insert)"
+  },
+  {
+    "file": "part-0080.png",
+    "category": "Braking & Friction",
+    "partType": "brake shoe"
+  },
+  {
+    "file": "part-0081.png",
+    "category": "Braking & Friction",
+    "partType": "brake shoe"
+  },
+  {
+    "file": "part-0082.png",
+    "category": "Braking & Friction",
+    "partType": "clutch friction plates (friction discs/steel plates)"
+  },
+  {
+    "file": "part-0083.png",
+    "category": "Gaskets & Seals",
+    "partType": "seal ring"
+  },
+  {
+    "file": "part-0084.png",
+    "category": "Braking & Friction",
+    "partType": "clutch friction plates"
+  },
+  {
+    "file": "part-0085.png",
+    "category": "Bearings",
+    "partType": "bearing and race assembly"
+  },
+  {
+    "file": "part-0086.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic pump"
+  },
+  {
+    "file": "part-0087.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic pump"
+  },
+  {
+    "file": "part-0088.png",
+    "category": "Electrical",
+    "partType": "hour meter gauge"
+  },
+  {
+    "file": "part-0089.png",
+    "category": "Gaskets & Seals",
+    "partType": "cab window glass seal (weatherstrip)"
+  },
+  {
+    "file": "part-0090.png",
+    "category": "Electrical",
+    "partType": "cab work lights"
+  },
+  {
+    "file": "part-0091.png",
+    "category": "Gaskets & Seals",
+    "partType": "cab window glass / windshield panel"
+  },
+  {
+    "file": "part-0092.png",
+    "category": "Hardware",
+    "partType": "bolt and washer hardware"
+  },
+  {
+    "file": "part-0093.png",
+    "category": "Ground Engaging Tools",
+    "partType": "grader blade cutting edge"
+  },
+  {
+    "file": "part-0094.png",
+    "category": "Belts & Hoses",
+    "partType": "drive belt"
+  },
+  {
+    "file": "part-0095.png",
+    "category": "Air Inlet & Exhaust",
+    "partType": "exhaust pipe"
+  },
+  {
+    "file": "part-0096.png",
+    "category": "Electrical",
+    "partType": "windshield wiper motor and linkage assembly"
+  },
+  {
+    "file": "part-0097.png",
+    "category": "Belts & Hoses",
+    "partType": "Hydraulic hose assembly"
+  },
+  {
+    "file": "part-0098.png",
+    "category": "Electrical",
+    "partType": "windshield wiper blade"
+  },
+  {
+    "file": "part-0099.png",
+    "category": "Cooling System",
+    "partType": "radiator cooling fan blade"
+  },
+  {
+    "file": "part-0100.png",
+    "category": "Hardware",
+    "partType": "bolt / fastener"
+  },
+  {
+    "file": "part-0101.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge / blade"
+  },
+  {
+    "file": "part-0102.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge blade"
+  },
+  {
+    "file": "part-0103.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge blade"
+  },
+  {
+    "file": "part-0104.png",
+    "category": "Gaskets & Seals",
+    "partType": "rubber gasket/seal strip"
+  },
+  {
+    "file": "part-0105.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose"
+  },
+  {
+    "file": "part-0106.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge blade"
+  },
+  {
+    "file": "part-0107.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge / grader blade edge"
+  },
+  {
+    "file": "part-0108.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge blade"
+  },
+  {
+    "file": "part-0109.png",
+    "category": "Belts & Hoses",
+    "partType": "drive belt"
+  },
+  {
+    "file": "part-0110.png",
+    "category": "Electrical",
+    "partType": "windshield wiper arm"
+  },
+  {
+    "file": "part-0111.png",
+    "category": "Electrical",
+    "partType": "electric motor actuator"
+  },
+  {
+    "file": "part-0112.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic hose fitting (banjo-style/adapter)"
+  },
+  {
+    "file": "part-0113.png",
+    "category": "Electrical",
+    "partType": "instrument gauges (pressure/temperature meter)"
+  },
+  {
+    "file": "part-0114.png",
+    "category": "Electrical",
+    "partType": "panel gauge / hour meter"
+  },
+  {
+    "file": "part-0115.png",
+    "category": "Electrical",
+    "partType": "panel gauge / meter"
+  },
+  {
+    "file": "part-0116.png",
+    "category": "Electrical",
+    "partType": "instrument gauge (indicator meter)"
+  },
+  {
+    "file": "part-0117.png",
+    "category": "Electrical",
+    "partType": "panel gauge (ammeter/voltmeter)"
+  },
+  {
+    "file": "part-0118.png",
+    "category": "Electrical",
+    "partType": "dashboard gauge (indicator)"
+  },
+  {
+    "file": "part-0119.png",
+    "category": "Electrical",
+    "partType": "pressure gauge (sensor/instrument)"
+  },
+  {
+    "file": "part-0120.png",
+    "category": "Electrical",
+    "partType": "panel gauge (instrument gauge)"
+  },
+  {
+    "file": "part-0121.png",
+    "category": "Gaskets & Seals",
+    "partType": "spring-loaded seal assembly"
+  },
+  {
+    "file": "part-0122.png",
+    "category": "Electrical",
+    "partType": "pressure gauge / sensor"
+  },
+  {
+    "file": "part-0123.png",
+    "category": "Hydraulic System",
+    "partType": "gas strut (hydraulic cylinder)"
+  },
+  {
+    "file": "part-0124.png",
+    "category": "Filters",
+    "partType": "fuel filter"
+  },
+  {
+    "file": "part-0125.png",
+    "category": "Hardware",
+    "partType": "mounting bracket / support bracket"
+  },
+  {
+    "file": "part-0126.png",
+    "category": "Hardware",
+    "partType": "mounting bracket"
+  },
+  {
+    "file": "part-0127.png",
+    "category": "Gaskets & Seals",
+    "partType": "seal (rubber gasket)"
+  },
+  {
+    "file": "part-0128.png",
+    "category": "Gaskets & Seals",
+    "partType": "oil filler cap seal"
+  },
+  {
+    "file": "part-0129.png",
+    "category": "Braking & Friction",
+    "partType": "friction disc"
+  },
+  {
+    "file": "part-0130.png",
+    "category": "Hardware",
+    "partType": "retaining ring (circlip)"
+  },
+  {
+    "file": "part-0131.png",
+    "category": "Electrical",
+    "partType": "electrical switch with chain (lanyard safety/kill switch)"
+  },
+  {
+    "file": "part-0132.png",
+    "category": "Filters",
+    "partType": "oil filter canister"
+  },
+  {
+    "file": "part-0133.png",
+    "category": "Bearings",
+    "partType": "bearing bushing"
+  },
+  {
+    "file": "part-0134.png",
+    "category": "Electrical",
+    "partType": "operator control panel (switches/controls)"
+  },
+  {
+    "file": "part-0135.png",
+    "category": "Electrical",
+    "partType": "operator seat assembly"
+  },
+  {
+    "file": "part-0136.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth"
+  },
+  {
+    "file": "part-0137.png",
+    "category": "Electrical",
+    "partType": "operator seat (seat assembly)"
+  },
+  {
+    "file": "part-0138.png",
+    "category": "Hardware",
+    "partType": "operator seat bracket/seat mount"
+  },
+  {
+    "file": "part-0139.png",
+    "category": "Electrical",
+    "partType": "operator seat assembly"
+  },
+  {
+    "file": "part-0140.png",
+    "category": "Hardware",
+    "partType": "adjustment handle"
+  },
+  {
+    "file": "part-0141.png",
+    "category": "Electrical",
+    "partType": "operator seat assembly"
+  },
+  {
+    "file": "part-0142.png",
+    "category": "Hardware",
+    "partType": "retaining clip / spring clip"
+  },
+  {
+    "file": "part-0143.png",
+    "category": "Undercarriage",
+    "partType": "track pad / track shoe"
+  },
+  {
+    "file": "part-0144.png",
+    "category": "Electrical",
+    "partType": "operator seat assembly"
+  },
+  {
+    "file": "part-0145.png",
+    "category": "Electrical",
+    "partType": "operator seat switch (seat sensor)"
+  },
+  {
+    "file": "part-0146.png",
+    "category": "Gaskets & Seals",
+    "partType": "mechanical seal"
+  },
+  {
+    "file": "part-0147.png",
+    "category": "Electrical",
+    "partType": "operator seat (seat assembly)"
+  },
+  {
+    "file": "part-0148.png",
+    "category": "Hardware",
+    "partType": "U-bolt clamp"
+  },
+  {
+    "file": "part-0149.png",
+    "category": "Gaskets & Seals",
+    "partType": "rubber bellows / dust boot"
+  },
+  {
+    "file": "part-0150.png",
+    "category": "Hardware",
+    "partType": "bolt (fastener)"
+  },
+  {
+    "file": "part-0151.png",
+    "category": "Electrical",
+    "partType": "operator seat (seat assembly)"
+  },
+  {
+    "file": "part-0152.png",
+    "category": "Electrical",
+    "partType": "operator seat"
+  },
+  {
+    "file": "part-0153.png",
+    "category": "Electrical",
+    "partType": "operator seat assembly"
+  },
+  {
+    "file": "part-0154.png",
+    "category": "Electrical",
+    "partType": "operator seat (suspension seat)"
+  },
+  {
+    "file": "part-0155.png",
+    "category": "Hydraulic System",
+    "partType": "suspension seat (air/hydraulic seat assembly)"
+  },
+  {
+    "file": "part-0156.png",
+    "category": "Hardware",
+    "partType": "operator cab roof / canopy (ROPS/FOPS)"
+  },
+  {
+    "file": "part-0157.png",
+    "category": "Hardware",
+    "partType": "operator seat assembly"
+  },
+  {
+    "file": "part-0158.png",
+    "category": "Electrical",
+    "partType": "operator seat"
+  },
+  {
+    "file": "part-0159.png",
+    "category": "Electrical",
+    "partType": "operator seat assembly"
+  },
+  {
+    "file": "part-0160.png",
+    "category": "Hardware",
+    "partType": "pin clamp bracket"
+  },
+  {
+    "file": "part-0161.png",
+    "category": "Electrical",
+    "partType": "operator seat assembly"
+  },
+  {
+    "file": "part-0162.png",
+    "category": "Hardware",
+    "partType": "seat assembly / operator seat mounting hardware"
+  },
+  {
+    "file": "part-0163.png",
+    "category": "Hardware",
+    "partType": "Seat assembly (operator seat mounting hardware)"
+  },
+  {
+    "file": "part-0164.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic cylinder assembly"
+  },
+  {
+    "file": "part-0165.png",
+    "category": "Electrical",
+    "partType": "operator seat assembly"
+  },
+  {
+    "file": "part-0166.png",
+    "category": "Electrical",
+    "partType": "operator seat assembly"
+  },
+  {
+    "file": "part-0167.png",
+    "category": "Electrical",
+    "partType": "seat switch (operator presence switch)"
+  },
+  {
+    "file": "part-0168.png",
+    "category": "Hardware",
+    "partType": "linkage arm and hardware kit"
+  },
+  {
+    "file": "part-0169.png",
+    "category": "Electrical",
+    "partType": "electronic control module (ECM/ECU)"
+  },
+  {
+    "file": "part-0170.png",
+    "category": "Hardware",
+    "partType": "adjustable track mounting seat assembly"
+  },
+  {
+    "file": "part-0171.png",
+    "category": "Braking & Friction",
+    "partType": "brake shoe assembly"
+  },
+  {
+    "file": "part-0172.png",
+    "category": "Electrical",
+    "partType": "operator seat (seat assembly)"
+  },
+  {
+    "file": "part-0173.png",
+    "category": "Electrical",
+    "partType": "operator seat assembly"
+  },
+  {
+    "file": "part-0174.png",
+    "category": "Hardware",
+    "partType": "mounting bracket plate"
+  },
+  {
+    "file": "part-0175.png",
+    "category": "Electrical",
+    "partType": "electronic control module (ECU/controller)"
+  },
+  {
+    "file": "part-0176.png",
+    "category": "Cooling System",
+    "partType": "radiator core/assembly"
+  },
+  {
+    "file": "part-0177.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose assembly"
+  },
+  {
+    "file": "part-0178.png",
+    "category": "Bearings",
+    "partType": "bearing (roller/ball bearing assembly)"
+  },
+  {
+    "file": "part-0179.png",
+    "category": "Hardware",
+    "partType": "bolt"
+  },
+  {
+    "file": "part-0180.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge / blade segment"
+  },
+  {
+    "file": "part-0181.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose"
+  },
+  {
+    "file": "part-0182.png",
+    "category": "Gaskets & Seals",
+    "partType": "rubber seal / grommet"
+  },
+  {
+    "file": "part-0183.png",
+    "category": "Belts & Hoses",
+    "partType": "hose"
+  },
+  {
+    "file": "part-0184.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose"
+  },
+  {
+    "file": "part-0185.png",
+    "category": "Hardware",
+    "partType": "metal clamp/strap"
+  },
+  {
+    "file": "part-0186.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose"
+  },
+  {
+    "file": "part-0187.png",
+    "category": "Filters",
+    "partType": "hydraulic/air filter (mesh strainer element)"
+  },
+  {
+    "file": "part-0188.png",
+    "category": "Cooling System",
+    "partType": "intercooler / charge air cooler"
+  },
+  {
+    "file": "part-0189.png",
+    "category": "Air Inlet & Exhaust",
+    "partType": "exhaust muffler / silencer"
+  },
+  {
+    "file": "part-0190.png",
+    "category": "Gaskets & Seals",
+    "partType": "cover plate gasket"
+  },
+  {
+    "file": "part-0191.png",
+    "category": "Cooling System",
+    "partType": "radiator core"
+  },
+  {
+    "file": "part-0192.png",
+    "category": "Cooling System",
+    "partType": "engine oil cooler / heat exchanger"
+  },
+  {
+    "file": "part-0193.png",
+    "category": "Cooling System",
+    "partType": "radiator (cooling core)"
+  },
+  {
+    "file": "part-0194.png",
+    "category": "Gaskets & Seals",
+    "partType": "mechanical seal / seal assembly"
+  },
+  {
+    "file": "part-0195.png",
+    "category": "Cooling System",
+    "partType": "radiator"
+  },
+  {
+    "file": "part-0196.png",
+    "category": "Cooling System",
+    "partType": "radiator"
+  },
+  {
+    "file": "part-0197.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge / grader blade"
+  },
+  {
+    "file": "part-0198.png",
+    "category": "Cooling System",
+    "partType": "radiator"
+  },
+  {
+    "file": "part-0199.png",
+    "category": "Cooling System",
+    "partType": "cooling fan blade"
+  },
+  {
+    "file": "part-0200.png",
+    "category": "Cooling System",
+    "partType": "radiator"
+  },
+  {
+    "file": "part-0201.png",
+    "category": "Cooling System",
+    "partType": "cooling fan blade"
+  },
+  {
+    "file": "part-0202.png",
+    "category": "Cooling System",
+    "partType": "engine cooling fan"
+  },
+  {
+    "file": "part-0203.png",
+    "category": "Electrical",
+    "partType": "viscous fan clutch (electronic)"
+  },
+  {
+    "file": "part-0204.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic manifold / valve body"
+  },
+  {
+    "file": "part-0205.png",
+    "category": "Bearings",
+    "partType": "bearing housing / flange mount bearing"
+  },
+  {
+    "file": "part-0206.png",
+    "category": "Ground Engaging Tools",
+    "partType": "grader blade cutting edge"
+  },
+  {
+    "file": "part-0207.png",
+    "category": "Cooling System",
+    "partType": "cooling fan assembly"
+  },
+  {
+    "file": "part-0208.png",
+    "category": "Cooling System",
+    "partType": "engine thermostat"
+  },
+  {
+    "file": "part-0209.png",
+    "category": "Turbochargers",
+    "partType": "turbocharger assembly"
+  },
+  {
+    "file": "part-0210.png",
+    "category": "Cooling System",
+    "partType": "water pump impeller"
+  },
+  {
+    "file": "part-0211.png",
+    "category": "Cooling System",
+    "partType": "water pump"
+  },
+  {
+    "file": "part-0212.png",
+    "category": "Cooling System",
+    "partType": "water pump"
+  },
+  {
+    "file": "part-0213.png",
+    "category": "Cooling System",
+    "partType": "water pump"
+  },
+  {
+    "file": "part-0214.png",
+    "category": "Cooling System",
+    "partType": "water pump"
+  },
+  {
+    "file": "part-0215.png",
+    "category": "Filters",
+    "partType": "fuel filter / filter canister"
+  },
+  {
+    "file": "part-0216.png",
+    "category": "Electrical",
+    "partType": "alternator"
+  },
+  {
+    "file": "part-0217.png",
+    "category": "Electrical",
+    "partType": "alternator"
+  },
+  {
+    "file": "part-0218.png",
+    "category": "Electrical",
+    "partType": "air conditioning compressor"
+  },
+  {
+    "file": "part-0219.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic pump"
+  },
+  {
+    "file": "part-0220.png",
+    "category": "Filters",
+    "partType": "air filter element"
+  },
+  {
+    "file": "part-0221.png",
+    "category": "Gaskets & Seals",
+    "partType": "hydraulic cylinder seal kit"
+  },
+  {
+    "file": "part-0222.png",
+    "category": "Electrical",
+    "partType": "starter motor"
+  },
+  {
+    "file": "part-0223.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic cartridge valve"
+  },
+  {
+    "file": "part-0224.png",
+    "category": "Filters",
+    "partType": "air filter element"
+  },
+  {
+    "file": "part-0225.png",
+    "category": "Electrical",
+    "partType": "electric fuel pump"
+  },
+  {
+    "file": "part-0226.png",
+    "category": "Cooling System",
+    "partType": "Cooling fan impeller"
+  },
+  {
+    "file": "part-0227.png",
+    "category": "Electrical",
+    "partType": "battery"
+  },
+  {
+    "file": "part-0228.png",
+    "category": "Cooling System",
+    "partType": "electric cooling fan"
+  },
+  {
+    "file": "part-0229.png",
+    "category": "Filters",
+    "partType": "hydraulic oil filter canister"
+  },
+  {
+    "file": "part-0230.png",
+    "category": "Filters",
+    "partType": "hydraulic oil filter (spin-on canister)"
+  },
+  {
+    "file": "part-0231.png",
+    "category": "Electrical",
+    "partType": "backup alarm / warning buzzer"
+  },
+  {
+    "file": "part-0232.png",
+    "category": "Filters",
+    "partType": "fuel filter"
+  },
+  {
+    "file": "part-0233.png",
+    "category": "Gaskets & Seals",
+    "partType": "o-ring and seal kit"
+  },
+  {
+    "file": "part-0234.png",
+    "category": "Air Inlet & Exhaust",
+    "partType": "air horn (dual trumpet horn)"
+  },
+  {
+    "file": "part-0235.png",
+    "category": "Electrical",
+    "partType": "electrical horn"
+  },
+  {
+    "file": "part-0236.png",
+    "category": "Electrical",
+    "partType": "starter motor armature (rotor)"
+  },
+  {
+    "file": "part-0237.png",
+    "category": "Electrical",
+    "partType": "electric motor armature/rotor"
+  },
+  {
+    "file": "part-0238.png",
+    "category": "Electrical",
+    "partType": "circuit breaker / resettable electrical breaker switch"
+  },
+  {
+    "file": "part-0239.png",
+    "category": "Electrical",
+    "partType": "starter motor brush holder and brushes"
+  },
+  {
+    "file": "part-0240.png",
+    "category": "Hardware",
+    "partType": "tie rod / link assembly"
+  },
+  {
+    "file": "part-0241.png",
+    "category": "Hardware",
+    "partType": "lifting eye bolt / eyelet"
+  },
+  {
+    "file": "part-0242.png",
+    "category": "Electrical",
+    "partType": "electrical sensor/switch"
+  },
+  {
+    "file": "part-0243.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose"
+  },
+  {
+    "file": "part-0244.png",
+    "category": "Electrical",
+    "partType": "electrical connector / sensor plug"
+  },
+  {
+    "file": "part-0245.png",
+    "category": "Hardware",
+    "partType": "eye bolt (lifting ring)"
+  },
+  {
+    "file": "part-0246.png",
+    "category": "Hardware",
+    "partType": "clevis pin"
+  },
+  {
+    "file": "part-0247.png",
+    "category": "Hardware",
+    "partType": "cotter pin / retaining pin"
+  },
+  {
+    "file": "part-0248.png",
+    "category": "Hardware",
+    "partType": "U-bolt clamp with nuts"
+  },
+  {
+    "file": "part-0249.png",
+    "category": "Hardware",
+    "partType": "pin"
+  },
+  {
+    "file": "part-0250.png",
+    "category": "Hardware",
+    "partType": "assorted electrical terminals/connector kit"
+  },
+  {
+    "file": "part-0251.png",
+    "category": "Hardware",
+    "partType": "lug terminal / cable eyelet"
+  },
+  {
+    "file": "part-0252.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic valve / solenoid valve"
+  },
+  {
+    "file": "part-0253.png",
+    "category": "Electrical",
+    "partType": "electrical connector / sensor plug"
+  },
+  {
+    "file": "part-0254.png",
+    "category": "Hardware",
+    "partType": "retaining ring (snap ring)"
+  },
+  {
+    "file": "part-0255.png",
+    "category": "Hardware",
+    "partType": "connecting rod bearing cap"
+  },
+  {
+    "file": "part-0256.png",
+    "category": "Electrical",
+    "partType": "electrical terminal lug"
+  },
+  {
+    "file": "part-0257.png",
+    "category": "Hardware",
+    "partType": "pin clamp / retaining clip"
+  },
+  {
+    "file": "part-0258.png",
+    "category": "Gaskets & Seals",
+    "partType": "o-rings and seal kit"
+  },
+  {
+    "file": "part-0259.png",
+    "category": "Hardware",
+    "partType": "spring pin / cotter pin"
+  },
+  {
+    "file": "part-0260.png",
+    "category": "Electrical",
+    "partType": "electrical connector kit"
+  },
+  {
+    "file": "part-0261.png",
+    "category": "Bearings",
+    "partType": "bearing housing / bushing"
+  },
+  {
+    "file": "part-0262.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth / tooth adapter"
+  },
+  {
+    "file": "part-0263.png",
+    "category": "Electrical",
+    "partType": "electrical connector plug"
+  },
+  {
+    "file": "part-0264.png",
+    "category": "Gaskets & Seals",
+    "partType": "o-ring and seal kit"
+  },
+  {
+    "file": "part-0265.png",
+    "category": "Gaskets & Seals",
+    "partType": "o-ring and seal assortment kit"
+  },
+  {
+    "file": "part-0266.png",
+    "category": "Hardware",
+    "partType": "retaining clips / clamps"
+  },
+  {
+    "file": "part-0267.png",
+    "category": "Electrical",
+    "partType": "electrical connector"
+  },
+  {
+    "file": "part-0268.png",
+    "category": "Gaskets & Seals",
+    "partType": "seal kit / gasket set"
+  },
+  {
+    "file": "part-0269.png",
+    "category": "Electrical",
+    "partType": "spark plug"
+  },
+  {
+    "file": "part-0270.png",
+    "category": "Electrical",
+    "partType": "spark plug"
+  },
+  {
+    "file": "part-0271.png",
+    "category": "Hardware",
+    "partType": "pin"
+  },
+  {
+    "file": "part-0272.png",
+    "category": "Electrical",
+    "partType": "wiring harness (electrical cable assembly)"
+  },
+  {
+    "file": "part-0273.png",
+    "category": "Electrical",
+    "partType": "work lights / headlights"
+  },
+  {
+    "file": "part-0274.png",
+    "category": "Bearings",
+    "partType": "ball bearing"
+  },
+  {
+    "file": "part-0275.png",
+    "category": "Electrical",
+    "partType": "work lights / signal lamps"
+  },
+  {
+    "file": "part-0276.png",
+    "category": "Electrical",
+    "partType": "work light / floodlight"
+  },
+  {
+    "file": "part-0277.png",
+    "category": "Electrical",
+    "partType": "work light / headlamp assembly"
+  },
+  {
+    "file": "part-0278.png",
+    "category": "Electrical",
+    "partType": "work light / lamp assembly"
+  },
+  {
+    "file": "part-0279.png",
+    "category": "Electrical",
+    "partType": "electrical switch sensor assembly"
+  },
+  {
+    "file": "part-0280.png",
+    "category": "Electrical",
+    "partType": "LED work light / light bar"
+  },
+  {
+    "file": "part-0281.png",
+    "category": "Filters",
+    "partType": "air filter element"
+  },
+  {
+    "file": "part-0282.png",
+    "category": "Electrical",
+    "partType": "work light / flood light (electrical lamp)"
+  },
+  {
+    "file": "part-0283.png",
+    "category": "Electrical",
+    "partType": "amber LED marker/clearance light"
+  },
+  {
+    "file": "part-0284.png",
+    "category": "Electrical",
+    "partType": "rotating beacon warning light"
+  },
+  {
+    "file": "part-0285.png",
+    "category": "Electrical",
+    "partType": "rotating beacon warning light"
+  },
+  {
+    "file": "part-0286.png",
+    "category": "Electrical",
+    "partType": "LED work light / marker lamp"
+  },
+  {
+    "file": "part-0287.png",
+    "category": "Electrical",
+    "partType": "work light / headlamp"
+  },
+  {
+    "file": "part-0288.png",
+    "category": "Electrical",
+    "partType": "warning beacon light"
+  },
+  {
+    "file": "part-0289.png",
+    "category": "Electrical",
+    "partType": "rotating beacon warning light"
+  },
+  {
+    "file": "part-0290.png",
+    "category": "Electrical",
+    "partType": "amber warning beacon light"
+  },
+  {
+    "file": "part-0291.png",
+    "category": "Electrical",
+    "partType": "starter motor"
+  },
+  {
+    "file": "part-0292.png",
+    "category": "Electrical",
+    "partType": "electrical sensor with wiring harness"
+  },
+  {
+    "file": "part-0293.png",
+    "category": "Electrical",
+    "partType": "fuel level sending unit sensor"
+  },
+  {
+    "file": "part-0294.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose assembly"
+  },
+  {
+    "file": "part-0295.png",
+    "category": "Electrical",
+    "partType": "electrical sensor pigtail/connector"
+  },
+  {
+    "file": "part-0296.png",
+    "category": "Electrical",
+    "partType": "electrical sensor (pressure switch)"
+  },
+  {
+    "file": "part-0297.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic pump"
+  },
+  {
+    "file": "part-0298.png",
+    "category": "Electrical",
+    "partType": "ignition switch and lock set"
+  },
+  {
+    "file": "part-0299.png",
+    "category": "Electrical",
+    "partType": "pressure sensor/switch"
+  },
+  {
+    "file": "part-0300.png",
+    "category": "Electrical",
+    "partType": "ignition switch with key"
+  },
+  {
+    "file": "part-0301.png",
+    "category": "Electrical",
+    "partType": "electrical solenoid valve"
+  },
+  {
+    "file": "part-0302.png",
+    "category": "Electrical",
+    "partType": "inline fuse"
+  },
+  {
+    "file": "part-0303.png",
+    "category": "Electrical",
+    "partType": "starter solenoid"
+  },
+  {
+    "file": "part-0304.png",
+    "category": "Electrical",
+    "partType": "push button switch"
+  },
+  {
+    "file": "part-0305.png",
+    "category": "Electrical",
+    "partType": "ignition switch / electrical switch"
+  },
+  {
+    "file": "part-0306.png",
+    "category": "Electrical",
+    "partType": "solenoid switch"
+  },
+  {
+    "file": "part-0307.png",
+    "category": "Electrical",
+    "partType": "electrical control module (relay/switch box)"
+  },
+  {
+    "file": "part-0308.png",
+    "category": "Electrical",
+    "partType": "electrical sensor with wiring pigtail"
+  },
+  {
+    "file": "part-0309.png",
+    "category": "Electrical",
+    "partType": "electrical switch/sensor"
+  },
+  {
+    "file": "part-0310.png",
+    "category": "Hardware",
+    "partType": "hose clamp"
+  },
+  {
+    "file": "part-0311.png",
+    "category": "Electrical",
+    "partType": "electrical sensor / switch assembly"
+  },
+  {
+    "file": "part-0312.png",
+    "category": "Electrical",
+    "partType": "electrical sensor module"
+  },
+  {
+    "file": "part-0313.png",
+    "category": "Electrical",
+    "partType": "limit switch"
+  },
+  {
+    "file": "part-0314.png",
+    "category": "Electrical",
+    "partType": "electrical sensor with wiring harness"
+  },
+  {
+    "file": "part-0315.png",
+    "category": "Electrical",
+    "partType": "starter solenoid"
+  },
+  {
+    "file": "part-0316.png",
+    "category": "Electrical",
+    "partType": "electrical solenoid actuator"
+  },
+  {
+    "file": "part-0317.png",
+    "category": "Electrical",
+    "partType": "electric linear actuator (solenoid)"
+  },
+  {
+    "file": "part-0318.png",
+    "category": "Electrical",
+    "partType": "starter solenoid"
+  },
+  {
+    "file": "part-0319.png",
+    "category": "Turbochargers",
+    "partType": "turbocharger assembly"
+  },
+  {
+    "file": "part-0320.png",
+    "category": "Electrical",
+    "partType": "starter motor"
+  },
+  {
+    "file": "part-0321.png",
+    "category": "Electrical",
+    "partType": "starter motor"
+  },
+  {
+    "file": "part-0322.png",
+    "category": "Electrical",
+    "partType": "starter motor"
+  },
+  {
+    "file": "part-0323.png",
+    "category": "Gaskets & Seals",
+    "partType": "seal and o-ring kit"
+  },
+  {
+    "file": "part-0324.png",
+    "category": "Engine Components",
+    "partType": "crankshaft"
+  },
+  {
+    "file": "part-0325.png",
+    "category": "Engine Components",
+    "partType": "engine oil pump"
+  },
+  {
+    "file": "part-0326.png",
+    "category": "Engine Components",
+    "partType": "engine piston and connecting rod"
+  },
+  {
+    "file": "part-0327.png",
+    "category": "Filters",
+    "partType": "filter (canister type)"
+  },
+  {
+    "file": "part-0328.png",
+    "category": "Engine Components",
+    "partType": "Engine piston"
+  },
+  {
+    "file": "part-0329.png",
+    "category": "Electrical",
+    "partType": "work light / headlamp assembly"
+  },
+  {
+    "file": "part-0330.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic fitting / hose end coupling"
+  },
+  {
+    "file": "part-0331.png",
+    "category": "Engine Components",
+    "partType": "engine main bearing shells"
+  },
+  {
+    "file": "part-0332.png",
+    "category": "Gaskets & Seals",
+    "partType": "O-ring seals"
+  },
+  {
+    "file": "part-0333.png",
+    "category": "Engine Components",
+    "partType": "engine block"
+  },
+  {
+    "file": "part-0334.png",
+    "category": "Engine Components",
+    "partType": "engine cylinder block"
+  },
+  {
+    "file": "part-0335.png",
+    "category": "Engine Components",
+    "partType": "engine block (cylinder block)"
+  },
+  {
+    "file": "part-0336.png",
+    "category": "Engine Components",
+    "partType": "engine piston and ring kit"
+  },
+  {
+    "file": "part-0337.png",
+    "category": "Engine Components",
+    "partType": "engine piston and gasket kit"
+  },
+  {
+    "file": "part-0338.png",
+    "category": "Gaskets & Seals",
+    "partType": "oil seal"
+  },
+  {
+    "file": "part-0339.png",
+    "category": "Bearings",
+    "partType": "bearing shell / bushing (plain bearing insert)"
+  },
+  {
+    "file": "part-0340.png",
+    "category": "Bearings",
+    "partType": "plain bearing shells (bushings)"
+  },
+  {
+    "file": "part-0341.png",
+    "category": "Bearings",
+    "partType": "bearing shell (plain bearing)"
+  },
+  {
+    "file": "part-0342.png",
+    "category": "Bearings",
+    "partType": "plain bearing shell (engine bearing insert)"
+  },
+  {
+    "file": "part-0343.png",
+    "category": "Bearings",
+    "partType": "bearing shell (plain bearing insert)"
+  },
+  {
+    "file": "part-0344.png",
+    "category": "Bearings",
+    "partType": "plain bearing shell (bushing)"
+  },
+  {
+    "file": "part-0345.png",
+    "category": "Hardware",
+    "partType": "hose clamp / retaining ring clamp"
+  },
+  {
+    "file": "part-0346.png",
+    "category": "Bearings",
+    "partType": "plain bearing shell (journal bearing)"
+  },
+  {
+    "file": "part-0347.png",
+    "category": "Bearings",
+    "partType": "plain bearing bushing (journal bearing shell)"
+  },
+  {
+    "file": "part-0348.png",
+    "category": "Bearings",
+    "partType": "bushing (plain bearing shell)"
+  },
+  {
+    "file": "part-0349.png",
+    "category": "Bearings",
+    "partType": "bearing shells / bushings"
+  },
+  {
+    "file": "part-0350.png",
+    "category": "Engine Components",
+    "partType": "camshaft"
+  },
+  {
+    "file": "part-0351.png",
+    "category": "Hardware",
+    "partType": "metal shaft pin"
+  },
+  {
+    "file": "part-0352.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth"
+  },
+  {
+    "file": "part-0353.png",
+    "category": "Hardware",
+    "partType": "wedge clamp block"
+  },
+  {
+    "file": "part-0354.png",
+    "category": "Hardware",
+    "partType": "clevis pin and retainer"
+  },
+  {
+    "file": "part-0355.png",
+    "category": "Bearings",
+    "partType": "engine cylinder liner / sleeve"
+  },
+  {
+    "file": "part-0356.png",
+    "category": "Engine Components",
+    "partType": "engine cylinder liner (sleeve)"
+  },
+  {
+    "file": "part-0357.png",
+    "category": "Engine Components",
+    "partType": "engine piston and cylinder liner kit"
+  },
+  {
+    "file": "part-0358.png",
+    "category": "Engine Components",
+    "partType": "Engine piston and liner kit"
+  },
+  {
+    "file": "part-0359.png",
+    "category": "Engine Components",
+    "partType": "engine piston"
+  },
+  {
+    "file": "part-0360.png",
+    "category": "Engine Components",
+    "partType": "engine piston"
+  },
+  {
+    "file": "part-0361.png",
+    "category": "Engine Components",
+    "partType": "piston and rings kit"
+  },
+  {
+    "file": "part-0362.png",
+    "category": "Bearings",
+    "partType": "bushing"
+  },
+  {
+    "file": "part-0363.png",
+    "category": "Gaskets & Seals",
+    "partType": "piston rings"
+  },
+  {
+    "file": "part-0364.png",
+    "category": "Gaskets & Seals",
+    "partType": "o-ring seals"
+  },
+  {
+    "file": "part-0365.png",
+    "category": "Hardware",
+    "partType": "linkage pin lever bracket"
+  },
+  {
+    "file": "part-0366.png",
+    "category": "Engine Components",
+    "partType": "engine connecting rod"
+  },
+  {
+    "file": "part-0367.png",
+    "category": "Engine Components",
+    "partType": "engine connecting rod"
+  },
+  {
+    "file": "part-0368.png",
+    "category": "Engine Components",
+    "partType": "engine oil pump (gear type)"
+  },
+  {
+    "file": "part-0369.png",
+    "category": "Engine Components",
+    "partType": "cylinder head"
+  },
+  {
+    "file": "part-0370.png",
+    "category": "Engine Components",
+    "partType": "cylinder head"
+  },
+  {
+    "file": "part-0371.png",
+    "category": "Hardware",
+    "partType": "pin (hardened dowel/pivot pin)"
+  },
+  {
+    "file": "part-0372.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic fitting (coupling/adapter)"
+  },
+  {
+    "file": "part-0373.png",
+    "category": "Hardware",
+    "partType": "dowel pin"
+  },
+  {
+    "file": "part-0374.png",
+    "category": "Bearings",
+    "partType": "bushing"
+  },
+  {
+    "file": "part-0375.png",
+    "category": "Bearings",
+    "partType": "bushing (sleeve bearing)"
+  },
+  {
+    "file": "part-0376.png",
+    "category": "Bearings",
+    "partType": "bushing"
+  },
+  {
+    "file": "part-0377.png",
+    "category": "Hardware",
+    "partType": "dowel pin"
+  },
+  {
+    "file": "part-0378.png",
+    "category": "Bearings",
+    "partType": "bushing (sleeve bearing)"
+  },
+  {
+    "file": "part-0379.png",
+    "category": "Bearings",
+    "partType": "bushing"
+  },
+  {
+    "file": "part-0380.png",
+    "category": "Bearings",
+    "partType": "bushing (sleeve bearing)"
+  },
+  {
+    "file": "part-0381.png",
+    "category": "Bearings",
+    "partType": "bushing (sleeve bearing)"
+  },
+  {
+    "file": "part-0382.png",
+    "category": "Hardware",
+    "partType": "bolts and pins"
+  },
+  {
+    "file": "part-0383.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic quick coupler fitting"
+  },
+  {
+    "file": "part-0384.png",
+    "category": "Engine Components",
+    "partType": "engine valves (intake/exhaust valves)"
+  },
+  {
+    "file": "part-0385.png",
+    "category": "Engine Components",
+    "partType": "engine valves"
+  },
+  {
+    "file": "part-0386.png",
+    "category": "Hardware",
+    "partType": "dowel pins"
+  },
+  {
+    "file": "part-0387.png",
+    "category": "Bearings",
+    "partType": "bearing races"
+  },
+  {
+    "file": "part-0388.png",
+    "category": "Hardware",
+    "partType": "coil springs"
+  },
+  {
+    "file": "part-0389.png",
+    "category": "Gaskets & Seals",
+    "partType": "mechanical seal"
+  },
+  {
+    "file": "part-0390.png",
+    "category": "Gaskets & Seals",
+    "partType": "seal kit (bushing/seal set)"
+  },
+  {
+    "file": "part-0391.png",
+    "category": "Bearings",
+    "partType": "rubber bushing"
+  },
+  {
+    "file": "part-0392.png",
+    "category": "Bearings",
+    "partType": "bushings"
+  },
+  {
+    "file": "part-0393.png",
+    "category": "Bearings",
+    "partType": "bearing race"
+  },
+  {
+    "file": "part-0394.png",
+    "category": "Bearings",
+    "partType": "bushing (plain bearing)"
+  },
+  {
+    "file": "part-0395.png",
+    "category": "Undercarriage",
+    "partType": "sprocket gear"
+  },
+  {
+    "file": "part-0396.png",
+    "category": "Engine Components",
+    "partType": "timing gear"
+  },
+  {
+    "file": "part-0397.png",
+    "category": "Bearings",
+    "partType": "bearing race"
+  },
+  {
+    "file": "part-0398.png",
+    "category": "Undercarriage",
+    "partType": "sprocket"
+  },
+  {
+    "file": "part-0399.png",
+    "category": "Undercarriage",
+    "partType": "sprocket gear"
+  },
+  {
+    "file": "part-0400.png",
+    "category": "Gaskets & Seals",
+    "partType": "gasket"
+  },
+  {
+    "file": "part-0401.png",
+    "category": "Gaskets & Seals",
+    "partType": "engine gasket"
+  },
+  {
+    "file": "part-0402.png",
+    "category": "Engine Components",
+    "partType": "engine front timing cover"
+  },
+  {
+    "file": "part-0403.png",
+    "category": "Engine Components",
+    "partType": "engine front cover/timing cover"
+  },
+  {
+    "file": "part-0404.png",
+    "category": "Engine Components",
+    "partType": "engine rocker arm cover (valve cover)"
+  },
+  {
+    "file": "part-0405.png",
+    "category": "Engine Components",
+    "partType": "engine block (front timing gear housing/plate)"
+  },
+  {
+    "file": "part-0406.png",
+    "category": "Cooling System",
+    "partType": "radiator (cooling core)"
+  },
+  {
+    "file": "part-0407.png",
+    "category": "Engine Components",
+    "partType": "engine block"
+  },
+  {
+    "file": "part-0408.png",
+    "category": "Hardware",
+    "partType": "mounting bracket/plate"
+  },
+  {
+    "file": "part-0409.png",
+    "category": "Undercarriage",
+    "partType": "track link (crawler chain segment)"
+  },
+  {
+    "file": "part-0410.png",
+    "category": "Air Inlet & Exhaust",
+    "partType": "muffler/exhaust silencer"
+  },
+  {
+    "file": "part-0411.png",
+    "category": "Hardware",
+    "partType": "mounting bracket clamp"
+  },
+  {
+    "file": "part-0412.png",
+    "category": "Gaskets & Seals",
+    "partType": "valve cover gasket"
+  },
+  {
+    "file": "part-0413.png",
+    "category": "Undercarriage",
+    "partType": "track chain / track link assembly"
+  },
+  {
+    "file": "part-0414.png",
+    "category": "Undercarriage",
+    "partType": "track shoe (crawler track pad)"
+  },
+  {
+    "file": "part-0415.png",
+    "category": "Filters",
+    "partType": "hydraulic filter element"
+  },
+  {
+    "file": "part-0416.png",
+    "category": "Filters",
+    "partType": "engine oil filter"
+  },
+  {
+    "file": "part-0417.png",
+    "category": "Filters",
+    "partType": "hydraulic/air filter element"
+  },
+  {
+    "file": "part-0418.png",
+    "category": "Filters",
+    "partType": "air filter element"
+  },
+  {
+    "file": "part-0419.png",
+    "category": "Filters",
+    "partType": "air filter element"
+  },
+  {
+    "file": "part-0420.png",
+    "category": "Filters",
+    "partType": "air filter element"
+  },
+  {
+    "file": "part-0421.png",
+    "category": "Filters",
+    "partType": "fuel/water separator filter"
+  },
+  {
+    "file": "part-0422.png",
+    "category": "Filters",
+    "partType": "air filter element"
+  },
+  {
+    "file": "part-0423.png",
+    "category": "Filters",
+    "partType": "oil filters"
+  },
+  {
+    "file": "part-0424.png",
+    "category": "Filters",
+    "partType": "spin-on filter"
+  },
+  {
+    "file": "part-0425.png",
+    "category": "Filters",
+    "partType": "cylindrical air filter element"
+  },
+  {
+    "file": "part-0426.png",
+    "category": "Bearings",
+    "partType": "bushing (plain bearing)"
+  },
+  {
+    "file": "part-0427.png",
+    "category": "Filters",
+    "partType": "spin-on filter"
+  },
+  {
+    "file": "part-0428.png",
+    "category": "Filters",
+    "partType": "hydraulic/oil filters"
+  },
+  {
+    "file": "part-0429.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic hand pump"
+  },
+  {
+    "file": "part-0430.png",
+    "category": "Filters",
+    "partType": "fuel filter / water separator"
+  },
+  {
+    "file": "part-0431.png",
+    "category": "Bearings",
+    "partType": "bushing"
+  },
+  {
+    "file": "part-0432.png",
+    "category": "Gaskets & Seals",
+    "partType": "rubber seal / grommet"
+  },
+  {
+    "file": "part-0433.png",
+    "category": "Filters",
+    "partType": "hydraulic filter element"
+  },
+  {
+    "file": "part-0434.png",
+    "category": "Filters",
+    "partType": "hydraulic/oil filter elements"
+  },
+  {
+    "file": "part-0435.png",
+    "category": "Filters",
+    "partType": "hydraulic oil filter element"
+  },
+  {
+    "file": "part-0436.png",
+    "category": "Filters",
+    "partType": "hydraulic filter element"
+  },
+  {
+    "file": "part-0437.png",
+    "category": "Filters",
+    "partType": "cylindrical filter element"
+  },
+  {
+    "file": "part-0438.png",
+    "category": "Filters",
+    "partType": "hydraulic filter element"
+  },
+  {
+    "file": "part-0439.png",
+    "category": "Filters",
+    "partType": "air filter element"
+  },
+  {
+    "file": "part-0440.png",
+    "category": "Filters",
+    "partType": "spin-on filter canister"
+  },
+  {
+    "file": "part-0441.png",
+    "category": "Filters",
+    "partType": "engine air filter element"
+  },
+  {
+    "file": "part-0442.png",
+    "category": "Filters",
+    "partType": "air filter element"
+  },
+  {
+    "file": "part-0443.png",
+    "category": "Filters",
+    "partType": "air filter element"
+  },
+  {
+    "file": "part-0444.png",
+    "category": "Filters",
+    "partType": "air filter element"
+  },
+  {
+    "file": "part-0445.png",
+    "category": "Filters",
+    "partType": "hydraulic filter"
+  },
+  {
+    "file": "part-0446.png",
+    "category": "Filters",
+    "partType": "hydraulic filter element"
+  },
+  {
+    "file": "part-0447.png",
+    "category": "Filters",
+    "partType": "hydraulic filter element"
+  },
+  {
+    "file": "part-0448.png",
+    "category": "Filters",
+    "partType": "spin-on filter (oil/fuel/hydraulic)"
+  },
+  {
+    "file": "part-0449.png",
+    "category": "Filters",
+    "partType": "spin-on filter"
+  },
+  {
+    "file": "part-0450.png",
+    "category": "Filters",
+    "partType": "hydraulic filter element"
+  },
+  {
+    "file": "part-0451.png",
+    "category": "Filters",
+    "partType": "hydraulic filter element"
+  },
+  {
+    "file": "part-0452.png",
+    "category": "Filters",
+    "partType": "hydraulic cartridge filter"
+  },
+  {
+    "file": "part-0453.png",
+    "category": "Filters",
+    "partType": "spin-on filter"
+  },
+  {
+    "file": "part-0454.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic control valve cartridge"
+  },
+  {
+    "file": "part-0455.png",
+    "category": "Engine Components",
+    "partType": "camshaft"
+  },
+  {
+    "file": "part-0456.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic tube/line assembly"
+  },
+  {
+    "file": "part-0457.png",
+    "category": "Hardware",
+    "partType": "dowel pin"
+  },
+  {
+    "file": "part-0458.png",
+    "category": "Electrical",
+    "partType": "spark plug"
+  },
+  {
+    "file": "part-0459.png",
+    "category": "Gaskets & Seals",
+    "partType": "seal kit (o-rings and seals)"
+  },
+  {
+    "file": "part-0460.png",
+    "category": "Gaskets & Seals",
+    "partType": "O-ring seal"
+  },
+  {
+    "file": "part-0461.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic cylinder"
+  },
+  {
+    "file": "part-0462.png",
+    "category": "Hydraulic System",
+    "partType": "Hydraulic hard line tubes (formed steel hydraulic pipes)"
+  },
+  {
+    "file": "part-0463.png",
+    "category": "Engine Components",
+    "partType": "unit fuel injector"
+  },
+  {
+    "file": "part-0464.png",
+    "category": "Hardware",
+    "partType": "retaining pin"
+  },
+  {
+    "file": "part-0465.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic control valve"
+  },
+  {
+    "file": "part-0466.png",
+    "category": "Filters",
+    "partType": "fluid filter"
+  },
+  {
+    "file": "part-0467.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic pump"
+  },
+  {
+    "file": "part-0468.png",
+    "category": "Ground Engaging Tools",
+    "partType": "Excavator bucket teeth and cutting edges"
+  },
+  {
+    "file": "part-0469.png",
+    "category": "Ground Engaging Tools",
+    "partType": "Excavator bucket teeth (GET)"
+  },
+  {
+    "file": "part-0470.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth"
+  },
+  {
+    "file": "part-0471.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth (ground engaging tooth)"
+  },
+  {
+    "file": "part-0472.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth adapter"
+  },
+  {
+    "file": "part-0473.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge end bit"
+  },
+  {
+    "file": "part-0474.png",
+    "category": "Ground Engaging Tools",
+    "partType": "Excavator bucket teeth"
+  },
+  {
+    "file": "part-0475.png",
+    "category": "Gaskets & Seals",
+    "partType": "oil seal and o-ring"
+  },
+  {
+    "file": "part-0476.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth"
+  },
+  {
+    "file": "part-0477.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth"
+  },
+  {
+    "file": "part-0478.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth"
+  },
+  {
+    "file": "part-0479.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth adapter"
+  },
+  {
+    "file": "part-0480.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth"
+  },
+  {
+    "file": "part-0481.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth"
+  },
+  {
+    "file": "part-0482.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth"
+  },
+  {
+    "file": "part-0483.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge blade"
+  },
+  {
+    "file": "part-0484.png",
+    "category": "Hardware",
+    "partType": "hinge pin"
+  },
+  {
+    "file": "part-0485.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge / grader blade segment"
+  },
+  {
+    "file": "part-0486.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge blade segment"
+  },
+  {
+    "file": "part-0487.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth / ground engaging tip"
+  },
+  {
+    "file": "part-0488.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge / blade segment"
+  },
+  {
+    "file": "part-0489.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge blade segment"
+  },
+  {
+    "file": "part-0490.png",
+    "category": "Bearings",
+    "partType": "ball bearing"
+  },
+  {
+    "file": "part-0491.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge / blade segment"
+  },
+  {
+    "file": "part-0492.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge blade"
+  },
+  {
+    "file": "part-0493.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge blade"
+  },
+  {
+    "file": "part-0494.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket cutting edge"
+  },
+  {
+    "file": "part-0495.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge / wear blade"
+  },
+  {
+    "file": "part-0496.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge"
+  },
+  {
+    "file": "part-0497.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth (excavator tooth)"
+  },
+  {
+    "file": "part-0498.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth adapter"
+  },
+  {
+    "file": "part-0499.png",
+    "category": "Ground Engaging Tools",
+    "partType": "grader cutting edge / blade segment"
+  },
+  {
+    "file": "part-0500.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth"
+  },
+  {
+    "file": "part-0501.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth/adapter (ground engaging tool)"
+  },
+  {
+    "file": "part-0502.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth"
+  },
+  {
+    "file": "part-0503.png",
+    "category": "Ground Engaging Tools",
+    "partType": "excavator bucket tooth"
+  },
+  {
+    "file": "part-0504.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth"
+  },
+  {
+    "file": "part-0505.png",
+    "category": "Hardware",
+    "partType": "dowel pin"
+  },
+  {
+    "file": "part-0506.png",
+    "category": "Bearings",
+    "partType": "bearing race"
+  },
+  {
+    "file": "part-0507.png",
+    "category": "Ground Engaging Tools",
+    "partType": "ripper shank"
+  },
+  {
+    "file": "part-0508.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth adapter"
+  },
+  {
+    "file": "part-0509.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge / wear plate"
+  },
+  {
+    "file": "part-0510.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge / wear plate"
+  },
+  {
+    "file": "part-0511.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth"
+  },
+  {
+    "file": "part-0512.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth"
+  },
+  {
+    "file": "part-0513.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge (grader/dozer blade edge)"
+  },
+  {
+    "file": "part-0514.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth adapter"
+  },
+  {
+    "file": "part-0515.png",
+    "category": "Ground Engaging Tools",
+    "partType": "Bucket tooth adapter (weld-on adapter)"
+  },
+  {
+    "file": "part-0516.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth"
+  },
+  {
+    "file": "part-0517.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth / excavator tooth"
+  },
+  {
+    "file": "part-0518.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth adapter"
+  },
+  {
+    "file": "part-0519.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth"
+  },
+  {
+    "file": "part-0520.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth"
+  },
+  {
+    "file": "part-0521.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth"
+  },
+  {
+    "file": "part-0522.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth"
+  },
+  {
+    "file": "part-0523.png",
+    "category": "Ground Engaging Tools",
+    "partType": "grader/dozer cutting edge"
+  },
+  {
+    "file": "part-0524.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge wear plate"
+  },
+  {
+    "file": "part-0525.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge / wear plate"
+  },
+  {
+    "file": "part-0526.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge wear plate"
+  },
+  {
+    "file": "part-0527.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge segment"
+  },
+  {
+    "file": "part-0528.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth point"
+  },
+  {
+    "file": "part-0529.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge plate"
+  },
+  {
+    "file": "part-0530.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge / grader blade segment"
+  },
+  {
+    "file": "part-0531.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge segment"
+  },
+  {
+    "file": "part-0532.png",
+    "category": "Gaskets & Seals",
+    "partType": "shaft seal (seal components)"
+  },
+  {
+    "file": "part-0533.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket teeth and adapters"
+  },
+  {
+    "file": "part-0534.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket teeth (ground engaging tips)"
+  },
+  {
+    "file": "part-0535.png",
+    "category": "Ground Engaging Tools",
+    "partType": "Bucket tooth (ground engaging tip)"
+  },
+  {
+    "file": "part-0536.png",
+    "category": "Ground Engaging Tools",
+    "partType": "Excavator bucket (with teeth)"
+  },
+  {
+    "file": "part-0537.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth (ground engaging tool)"
+  },
+  {
+    "file": "part-0538.png",
+    "category": "Hardware",
+    "partType": "bolt (fastener)"
+  },
+  {
+    "file": "part-0539.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth (ground engaging tooth)"
+  },
+  {
+    "file": "part-0540.png",
+    "category": "Ground Engaging Tools",
+    "partType": "Excavator buckets (ground engaging attachment)"
+  },
+  {
+    "file": "part-0541.png",
+    "category": "Ground Engaging Tools",
+    "partType": "excavator bucket tooth / tip"
+  },
+  {
+    "file": "part-0542.png",
+    "category": "Ground Engaging Tools",
+    "partType": "excavator bucket (ground engaging attachment)"
+  },
+  {
+    "file": "part-0543.png",
+    "category": "Ground Engaging Tools",
+    "partType": "excavator bucket tooth"
+  },
+  {
+    "file": "part-0544.png",
+    "category": "Ground Engaging Tools",
+    "partType": "excavator bucket"
+  },
+  {
+    "file": "part-0545.png",
+    "category": "Ground Engaging Tools",
+    "partType": "excavator bucket attachment (ground engaging tool)"
+  },
+  {
+    "file": "part-0546.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic cylinder"
+  },
+  {
+    "file": "part-0547.png",
+    "category": "Air Inlet & Exhaust",
+    "partType": "exhaust muffler/silencer"
+  },
+  {
+    "file": "part-0548.png",
+    "category": "Ground Engaging Tools",
+    "partType": "excavator bucket"
+  },
+  {
+    "file": "part-0549.png",
+    "category": "Ground Engaging Tools",
+    "partType": "excavator bucket"
+  },
+  {
+    "file": "part-0550.png",
+    "category": "Ground Engaging Tools",
+    "partType": "hydraulic excavator quick coupler (quick hitch)"
+  },
+  {
+    "file": "part-0551.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth / excavator tooth"
+  },
+  {
+    "file": "part-0552.png",
+    "category": "Hardware",
+    "partType": "retaining clamp / mounting bracket"
+  },
+  {
+    "file": "part-0553.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic cylinder (rod end/clevis)"
+  },
+  {
+    "file": "part-0554.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic cylinder (welded body)"
+  },
+  {
+    "file": "part-0555.png",
+    "category": "Bearings",
+    "partType": "bushing"
+  },
+  {
+    "file": "part-0556.png",
+    "category": "Undercarriage",
+    "partType": "undercarriage track equalizer bar"
+  },
+  {
+    "file": "part-0557.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth/adapter wear plate"
+  },
+  {
+    "file": "part-0558.png",
+    "category": "Gaskets & Seals",
+    "partType": "seal (lip seal/strip seal)"
+  },
+  {
+    "file": "part-0559.png",
+    "category": "Gaskets & Seals",
+    "partType": "wear plates (tungsten carbide hardfacing blocks/discs)"
+  },
+  {
+    "file": "part-0560.png",
+    "category": "Gaskets & Seals",
+    "partType": "wear plates / shims (seal pack components)"
+  },
+  {
+    "file": "part-0561.png",
+    "category": "Ground Engaging Tools",
+    "partType": "excavator bucket"
+  },
+  {
+    "file": "part-0562.png",
+    "category": "Undercarriage",
+    "partType": "track roller/idler wheels"
+  },
+  {
+    "file": "part-0563.png",
+    "category": "Undercarriage",
+    "partType": "rubber track (track belt)"
+  },
+  {
+    "file": "part-0564.png",
+    "category": "Hardware",
+    "partType": "mounting bracket / clamp"
+  },
+  {
+    "file": "part-0565.png",
+    "category": "Ground Engaging Tools",
+    "partType": "excavator bucket"
+  },
+  {
+    "file": "part-0566.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge segment"
+  },
+  {
+    "file": "part-0567.png",
+    "category": "Hardware",
+    "partType": "metal end cap / plug"
+  },
+  {
+    "file": "part-0568.png",
+    "category": "Hardware",
+    "partType": "bolts, nuts, and washers"
+  },
+  {
+    "file": "part-0569.png",
+    "category": "Hardware",
+    "partType": "pins and clips (hardware kit)"
+  },
+  {
+    "file": "part-0570.png",
+    "category": "Bearings",
+    "partType": "bushings"
+  },
+  {
+    "file": "part-0571.png",
+    "category": "Hardware",
+    "partType": "grease fitting (zerk) / threaded fitting"
+  },
+  {
+    "file": "part-0572.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic fittings/adapters"
+  },
+  {
+    "file": "part-0573.png",
+    "category": "Hardware",
+    "partType": "threaded inserts (brass fittings)"
+  },
+  {
+    "file": "part-0574.png",
+    "category": "Bearings",
+    "partType": "bushings"
+  },
+  {
+    "file": "part-0575.png",
+    "category": "Hardware",
+    "partType": "cotter pin (split pin)"
+  },
+  {
+    "file": "part-0576.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic fittings (elbow adapters)"
+  },
+  {
+    "file": "part-0577.png",
+    "category": "Hardware",
+    "partType": "bolt and nut hardware set"
+  },
+  {
+    "file": "part-0578.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic fitting/coupler"
+  },
+  {
+    "file": "part-0579.png",
+    "category": "Hardware",
+    "partType": "hex nuts"
+  },
+  {
+    "file": "part-0580.png",
+    "category": "Hardware",
+    "partType": "hex nut"
+  },
+  {
+    "file": "part-0581.png",
+    "category": "Hardware",
+    "partType": "eyebolts (lifting eye bolts)"
+  },
+  {
+    "file": "part-0582.png",
+    "category": "Hardware",
+    "partType": "hex nut"
+  },
+  {
+    "file": "part-0583.png",
+    "category": "Hardware",
+    "partType": "dowel pins"
+  },
+  {
+    "file": "part-0584.png",
+    "category": "Hardware",
+    "partType": "bolts"
+  },
+  {
+    "file": "part-0585.png",
+    "category": "Hardware",
+    "partType": "locking pins"
+  },
+  {
+    "file": "part-0586.png",
+    "category": "Bearings",
+    "partType": "rod end bearing (spherical bearing)"
+  },
+  {
+    "file": "part-0587.png",
+    "category": "Hardware",
+    "partType": "bolts and nuts"
+  },
+  {
+    "file": "part-0588.png",
+    "category": "Hardware",
+    "partType": "clevis bracket"
+  },
+  {
+    "file": "part-0589.png",
+    "category": "Gaskets & Seals",
+    "partType": "snap ring circlips"
+  },
+  {
+    "file": "part-0590.png",
+    "category": "Bearings",
+    "partType": "bearing race segments"
+  },
+  {
+    "file": "part-0591.png",
+    "category": "Gaskets & Seals",
+    "partType": "o-rings"
+  },
+  {
+    "file": "part-0592.png",
+    "category": "Hardware",
+    "partType": "metal bar stock / flat bar"
+  },
+  {
+    "file": "part-0593.png",
+    "category": "Hardware",
+    "partType": "threaded pin / stud"
+  },
+  {
+    "file": "part-0594.png",
+    "category": "Hardware",
+    "partType": "threaded rod (stud)"
+  },
+  {
+    "file": "part-0595.png",
+    "category": "Hardware",
+    "partType": "bolts (fasteners)"
+  },
+  {
+    "file": "part-0596.png",
+    "category": "Hardware",
+    "partType": "mounting bracket"
+  },
+  {
+    "file": "part-0597.png",
+    "category": "Hardware",
+    "partType": "threaded studs / bolts"
+  },
+  {
+    "file": "part-0598.png",
+    "category": "Gaskets & Seals",
+    "partType": "rubber grommet seals"
+  },
+  {
+    "file": "part-0599.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic pump/motor assembly"
+  },
+  {
+    "file": "part-0600.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic pump"
+  },
+  {
+    "file": "part-0601.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic pump"
+  },
+  {
+    "file": "part-0602.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic pump piston/rotary group assembly"
+  },
+  {
+    "file": "part-0603.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic pump"
+  },
+  {
+    "file": "part-0604.png",
+    "category": "Bearings",
+    "partType": "bearing housing/roller bearing assembly"
+  },
+  {
+    "file": "part-0605.png",
+    "category": "Engine Components",
+    "partType": "engine pistons"
+  },
+  {
+    "file": "part-0606.png",
+    "category": "Undercarriage",
+    "partType": "Track roller (undercarriage roller)"
+  },
+  {
+    "file": "part-0607.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic cylinder"
+  },
+  {
+    "file": "part-0608.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic pump"
+  },
+  {
+    "file": "part-0609.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic cylinder"
+  },
+  {
+    "file": "part-0610.png",
+    "category": "Filters",
+    "partType": "oil filter elements"
+  },
+  {
+    "file": "part-0611.png",
+    "category": "Filters",
+    "partType": "hydraulic filter element"
+  },
+  {
+    "file": "part-0612.png",
+    "category": "Filters",
+    "partType": "hydraulic return filter element (mesh strainer)"
+  },
+  {
+    "file": "part-0613.png",
+    "category": "Filters",
+    "partType": "hydraulic filter element"
+  },
+  {
+    "file": "part-0614.png",
+    "category": "Filters",
+    "partType": "hydraulic/oil filter element"
+  },
+  {
+    "file": "part-0615.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic pump"
+  },
+  {
+    "file": "part-0616.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic control valve (orbitrol steering valve)"
+  },
+  {
+    "file": "part-0617.png",
+    "category": "Filters",
+    "partType": "hydraulic filter"
+  },
+  {
+    "file": "part-0618.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic control valve"
+  },
+  {
+    "file": "part-0619.png",
+    "category": "Belts & Hoses",
+    "partType": "braided rubber hose"
+  },
+  {
+    "file": "part-0620.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose"
+  },
+  {
+    "file": "part-0621.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose"
+  },
+  {
+    "file": "part-0622.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose"
+  },
+  {
+    "file": "part-0623.png",
+    "category": "Engine Components",
+    "partType": "camshaft"
+  },
+  {
+    "file": "part-0624.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose"
+  },
+  {
+    "file": "part-0625.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose"
+  },
+  {
+    "file": "part-0626.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic cylinder (barrel/rod assembly)"
+  },
+  {
+    "file": "part-0627.png",
+    "category": "Bearings",
+    "partType": "bearing cap / saddle (plain bearing housing)"
+  },
+  {
+    "file": "part-0628.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose"
+  },
+  {
+    "file": "part-0629.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose"
+  },
+  {
+    "file": "part-0630.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose"
+  },
+  {
+    "file": "part-0631.png",
+    "category": "Bearings",
+    "partType": "segmented bearing / bushing ring"
+  },
+  {
+    "file": "part-0632.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose"
+  },
+  {
+    "file": "part-0633.png",
+    "category": "Bearings",
+    "partType": "bearing set (roller bearings/races)"
+  },
+  {
+    "file": "part-0634.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose"
+  },
+  {
+    "file": "part-0635.png",
+    "category": "Bearings",
+    "partType": "bearing cap / journal bearing saddle"
+  },
+  {
+    "file": "part-0636.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose"
+  },
+  {
+    "file": "part-0637.png",
+    "category": "Belts & Hoses",
+    "partType": "Hydraulic hose"
+  },
+  {
+    "file": "part-0638.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose"
+  },
+  {
+    "file": "part-0639.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose"
+  },
+  {
+    "file": "part-0640.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose"
+  },
+  {
+    "file": "part-0641.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose"
+  },
+  {
+    "file": "part-0642.png",
+    "category": "Belts & Hoses",
+    "partType": "Hydraulic hose (braided rubber hose)"
+  },
+  {
+    "file": "part-0643.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose"
+  },
+  {
+    "file": "part-0644.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose"
+  },
+  {
+    "file": "part-0645.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose"
+  },
+  {
+    "file": "part-0646.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose"
+  },
+  {
+    "file": "part-0647.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose"
+  },
+  {
+    "file": "part-0648.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose"
+  },
+  {
+    "file": "part-0649.png",
+    "category": "Gaskets & Seals",
+    "partType": "o-ring seals"
+  },
+  {
+    "file": "part-0650.png",
+    "category": "Gaskets & Seals",
+    "partType": "O-rings (seal rings)"
+  },
+  {
+    "file": "part-0651.png",
+    "category": "Gaskets & Seals",
+    "partType": "o-rings and seals"
+  },
+  {
+    "file": "part-0652.png",
+    "category": "Bearings",
+    "partType": "bearing housing unit"
+  },
+  {
+    "file": "part-0653.png",
+    "category": "Gaskets & Seals",
+    "partType": "O-rings"
+  },
+  {
+    "file": "part-0654.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic gear pump"
+  },
+  {
+    "file": "part-0655.png",
+    "category": "Braking & Friction",
+    "partType": "flywheel and ring gear"
+  },
+  {
+    "file": "part-0656.png",
+    "category": "Bearings",
+    "partType": "bearing housing / flange bearing unit"
+  },
+  {
+    "file": "part-0657.png",
+    "category": "Undercarriage",
+    "partType": "track link (track chain link)"
+  },
+  {
+    "file": "part-0658.png",
+    "category": "Undercarriage",
+    "partType": "sprocket hub"
+  },
+  {
+    "file": "part-0659.png",
+    "category": "Undercarriage",
+    "partType": "excavator rubber track undercarriage"
+  },
+  {
+    "file": "part-0660.png",
+    "category": "Undercarriage",
+    "partType": "track sprocket (sprocket segment)"
+  },
+  {
+    "file": "part-0661.png",
+    "category": "Undercarriage",
+    "partType": "track idler (front idler wheel)"
+  },
+  {
+    "file": "part-0662.png",
+    "category": "Undercarriage",
+    "partType": "track roller"
+  },
+  {
+    "file": "part-0663.png",
+    "category": "Undercarriage",
+    "partType": "track shoe (crawler track pad)"
+  },
+  {
+    "file": "part-0664.png",
+    "category": "Bearings",
+    "partType": "bearing housing"
+  },
+  {
+    "file": "part-0665.png",
+    "category": "Undercarriage",
+    "partType": "final drive hub / wheel hub"
+  },
+  {
+    "file": "part-0666.png",
+    "category": "Engine Components",
+    "partType": "ring and pinion gear set"
+  },
+  {
+    "file": "part-0667.png",
+    "category": "Undercarriage",
+    "partType": "sprocket segment"
+  },
+  {
+    "file": "part-0668.png",
+    "category": "Bearings",
+    "partType": "bearing assembly (wheel hub bearing)"
+  },
+  {
+    "file": "part-0669.png",
+    "category": "Bearings",
+    "partType": "bearing race / bushing"
+  },
+  {
+    "file": "part-0670.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic valve assembly"
+  },
+  {
+    "file": "part-0671.png",
+    "category": "Gaskets & Seals",
+    "partType": "o-rings / seal rings"
+  },
+  {
+    "file": "part-0672.png",
+    "category": "Braking & Friction",
+    "partType": "brake disc/rotor"
+  },
+  {
+    "file": "part-0673.png",
+    "category": "Braking & Friction",
+    "partType": "friction plates / clutch discs"
+  },
+  {
+    "file": "part-0674.png",
+    "category": "Undercarriage",
+    "partType": "track roller (bottom roller)"
+  },
+  {
+    "file": "part-0675.png",
+    "category": "Bearings",
+    "partType": "roller bearings and bearing races"
+  },
+  {
+    "file": "part-0676.png",
+    "category": "Gaskets & Seals",
+    "partType": "oil seal"
+  },
+  {
+    "file": "part-0677.png",
+    "category": "Gaskets & Seals",
+    "partType": "engine gasket set (gaskets and seals kit)"
+  },
+  {
+    "file": "part-0678.png",
+    "category": "Gaskets & Seals",
+    "partType": "seal kit"
+  },
+  {
+    "file": "part-0679.png",
+    "category": "Hardware",
+    "partType": "bolt head"
+  },
+  {
+    "file": "part-0680.png",
+    "category": "Hardware",
+    "partType": "bolt / screw fastener"
+  },
+  {
+    "file": "part-0681.png",
+    "category": "Gaskets & Seals",
+    "partType": "seal kit / assorted O-rings"
+  },
+  {
+    "file": "part-0682.png",
+    "category": "Hardware",
+    "partType": "bolt"
+  },
+  {
+    "file": "part-0683.png",
+    "category": "Hardware",
+    "partType": "metal fastener (bolt/pin)"
+  },
+  {
+    "file": "part-0684.png",
+    "category": "Gaskets & Seals",
+    "partType": "gasket sheet/material"
+  },
+  {
+    "file": "part-0685.png",
+    "category": "Hardware",
+    "partType": "metal washer"
+  },
+  {
+    "file": "part-0686.png",
+    "category": "Hardware",
+    "partType": "bolt"
+  },
+  {
+    "file": "part-0687.png",
+    "category": "Hardware",
+    "partType": "fastener (bolt/nut)"
+  },
+  {
+    "file": "part-0688.png",
+    "category": "Hardware",
+    "partType": "washer"
+  },
+  {
+    "file": "part-0689.png",
+    "category": "Hardware",
+    "partType": "metal washer/flat spacer"
+  },
+  {
+    "file": "part-0690.png",
+    "category": "Gaskets & Seals",
+    "partType": "engine gasket set"
+  },
+  {
+    "file": "part-0691.png",
+    "category": "Hardware",
+    "partType": "bolt"
+  },
+  {
+    "file": "part-0692.png",
+    "category": "Hardware",
+    "partType": "washers"
+  },
+  {
+    "file": "part-0693.png",
+    "category": "Hardware",
+    "partType": "bolt"
+  },
+  {
+    "file": "part-0694.png",
+    "category": "Hardware",
+    "partType": "shipping boxes (hardware parts)"
+  },
+  {
+    "file": "part-0695.png",
+    "category": "Gaskets & Seals",
+    "partType": "gasket kit"
+  },
+  {
+    "file": "part-0696.png",
+    "category": "Gaskets & Seals",
+    "partType": "seal / o-ring"
+  },
+  {
+    "file": "part-0697.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge plate"
+  },
+  {
+    "file": "part-0698.png",
+    "category": "Engine Components",
+    "partType": "engine assembly (exploded view)"
+  },
+  {
+    "file": "part-0699.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic control valve"
+  },
+  {
+    "file": "part-0700.png",
+    "category": "Engine Components",
+    "partType": "diesel engine assembly"
+  },
+  {
+    "file": "part-0701.png",
+    "category": "Undercarriage",
+    "partType": "track roller (bottom roller)"
+  },
+  {
+    "file": "part-0702.png",
+    "category": "Undercarriage",
+    "partType": "Undercarriage idler wheel"
+  },
+  {
+    "file": "part-0703.png",
+    "category": "Undercarriage",
+    "partType": "track sprocket segments"
+  },
+  {
+    "file": "part-0704.png",
+    "category": "Undercarriage",
+    "partType": "wheel rim"
+  },
+  {
+    "file": "part-0705.png",
+    "category": "Ground Engaging Tools",
+    "partType": "excavator bucket linkage/quick coupler (bucket attachment bracket)"
+  },
+  {
+    "file": "part-0706.png",
+    "category": "Hardware",
+    "partType": "mounting bracket"
+  },
+  {
+    "file": "part-0707.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth"
+  },
+  {
+    "file": "part-0708.png",
+    "category": "Undercarriage",
+    "partType": "track roller"
+  },
+  {
+    "file": "part-0709.png",
+    "category": "Undercarriage",
+    "partType": "excavator boom/arm linkage (undercarriage component)"
+  },
+  {
+    "file": "part-0710.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth adapter"
+  },
+  {
+    "file": "part-0711.png",
+    "category": "Undercarriage",
+    "partType": "track roller / idler wheel"
+  },
+  {
+    "file": "part-0712.png",
+    "category": "Undercarriage",
+    "partType": "Track roller (bottom roller)"
+  },
+  {
+    "file": "part-0713.png",
+    "category": "Undercarriage",
+    "partType": "track roller (bottom roller)"
+  },
+  {
+    "file": "part-0714.png",
+    "category": "Undercarriage",
+    "partType": "track roller (bottom roller)"
+  },
+  {
+    "file": "part-0715.png",
+    "category": "Undercarriage",
+    "partType": "track roller/idler assembly"
+  },
+  {
+    "file": "part-0716.png",
+    "category": "Undercarriage",
+    "partType": "track shoe grouser/segments"
+  },
+  {
+    "file": "part-0717.png",
+    "category": "Undercarriage",
+    "partType": "track sprocket"
+  },
+  {
+    "file": "part-0718.png",
+    "category": "Undercarriage",
+    "partType": "Track adjuster (recoil spring assembly)"
+  },
+  {
+    "file": "part-0719.png",
+    "category": "Undercarriage",
+    "partType": "track pad / track shoe"
+  },
+  {
+    "file": "part-0720.png",
+    "category": "Ground Engaging Tools",
+    "partType": "grader cutting edges / blades"
+  },
+  {
+    "file": "part-0721.png",
+    "category": "Undercarriage",
+    "partType": "track roller (bottom roller)"
+  },
+  {
+    "file": "part-0722.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic cylinder"
+  },
+  {
+    "file": "part-0723.png",
+    "category": "Undercarriage",
+    "partType": "track roller"
+  },
+  {
+    "file": "part-0724.png",
+    "category": "Hardware",
+    "partType": "spring and fastener hardware kit"
+  },
+  {
+    "file": "part-0725.png",
+    "category": "Bearings",
+    "partType": "bushing"
+  },
+  {
+    "file": "part-0726.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic cylinder"
+  },
+  {
+    "file": "part-0727.png",
+    "category": "Hardware",
+    "partType": "heavy equipment pin / shaft (pivot pin)"
+  },
+  {
+    "file": "part-0728.png",
+    "category": "Hardware",
+    "partType": "machinery pin/shaft"
+  },
+  {
+    "file": "part-0729.png",
+    "category": "Hardware",
+    "partType": "coil spring"
+  },
+  {
+    "file": "part-0730.png",
+    "category": "Hardware",
+    "partType": "coil spring"
+  },
+  {
+    "file": "part-0731.png",
+    "category": "Hardware",
+    "partType": "coil spring"
+  },
+  {
+    "file": "part-0732.png",
+    "category": "Undercarriage",
+    "partType": "track chain (track links)"
+  },
+  {
+    "file": "part-0733.png",
+    "category": "Undercarriage",
+    "partType": "wheel rim"
+  },
+  {
+    "file": "part-0734.png",
+    "category": "Gaskets & Seals",
+    "partType": "gasket and seal kit"
+  },
+  {
+    "file": "part-0735.png",
+    "category": "Air Inlet & Exhaust",
+    "partType": "muffler"
+  },
+  {
+    "file": "part-0736.png",
+    "category": "Braking & Friction",
+    "partType": "brake disc/rotor"
+  },
+  {
+    "file": "part-0737.png",
+    "category": "Hardware",
+    "partType": "tie rod end / ball joint assembly"
+  },
+  {
+    "file": "part-0738.png",
+    "category": "Bearings",
+    "partType": "Bushing (sleeve bearing)"
+  },
+  {
+    "file": "part-0739.png",
+    "category": "Hardware",
+    "partType": "tapered pin"
+  },
+  {
+    "file": "part-0740.png",
+    "category": "Hardware",
+    "partType": "pin"
+  },
+  {
+    "file": "part-0741.png",
+    "category": "Hardware",
+    "partType": "clevis pin"
+  },
+  {
+    "file": "part-0742.png",
+    "category": "Hardware",
+    "partType": "clevis pin"
+  },
+  {
+    "file": "part-0743.png",
+    "category": "Hardware",
+    "partType": "clevis pin"
+  },
+  {
+    "file": "part-0744.png",
+    "category": "Hardware",
+    "partType": "pin (clevis/hinge pin)"
+  },
+  {
+    "file": "part-0745.png",
+    "category": "Hardware",
+    "partType": "clevis pin"
+  },
+  {
+    "file": "part-0746.png",
+    "category": "Undercarriage",
+    "partType": "rubber track"
+  },
+  {
+    "file": "part-0747.png",
+    "category": "Undercarriage",
+    "partType": "rubber track (crawler track)"
+  },
+  {
+    "file": "part-0748.png",
+    "category": "Undercarriage",
+    "partType": "rubber track (crawler track)"
+  },
+  {
+    "file": "part-0749.png",
+    "category": "Undercarriage",
+    "partType": "rubber track"
+  },
+  {
+    "file": "part-0750.png",
+    "category": "Undercarriage",
+    "partType": "rubber track (crawler track)"
+  },
+  {
+    "file": "part-0751.png",
+    "category": "Undercarriage",
+    "partType": "rubber track (undercarriage track)"
+  },
+  {
+    "file": "part-0752.png",
+    "category": "Undercarriage",
+    "partType": "rubber track"
+  },
+  {
+    "file": "part-0753.png",
+    "category": "Hardware",
+    "partType": "circlip retaining rings"
+  },
+  {
+    "file": "part-0754.png",
+    "category": "Undercarriage",
+    "partType": "track roller"
+  },
+  {
+    "file": "part-0755.png",
+    "category": "Undercarriage",
+    "partType": "rubber track (undercarriage)"
+  },
+  {
+    "file": "part-0756.png",
+    "category": "Bearings",
+    "partType": "ball bearing"
+  },
+  {
+    "file": "part-0757.png",
+    "category": "Undercarriage",
+    "partType": "rubber track (undercarriage track tread)"
+  },
+  {
+    "file": "part-0758.png",
+    "category": "Undercarriage",
+    "partType": "rubber track (undercarriage track)"
+  },
+  {
+    "file": "part-0759.png",
+    "category": "Hardware",
+    "partType": "clevis pin"
+  },
+  {
+    "file": "part-0760.png",
+    "category": "Hardware",
+    "partType": "threaded rod / stud bolt"
+  },
+  {
+    "file": "part-0761.png",
+    "category": "Undercarriage",
+    "partType": "rubber track (track belt)"
+  },
+  {
+    "file": "part-0762.png",
+    "category": "Undercarriage",
+    "partType": "rubber track assembly"
+  },
+  {
+    "file": "part-0763.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge / wear plate"
+  },
+  {
+    "file": "part-0764.png",
+    "category": "Undercarriage",
+    "partType": "rubber track (track belt)"
+  },
+  {
+    "file": "part-0765.png",
+    "category": "Undercarriage",
+    "partType": "rubber track"
+  },
+  {
+    "file": "part-0766.png",
+    "category": "Undercarriage",
+    "partType": "rubber track tread / track shoe pad"
+  },
+  {
+    "file": "part-0767.png",
+    "category": "Undercarriage",
+    "partType": "rubber track (undercarriage track assembly)"
+  },
+  {
+    "file": "part-0768.png",
+    "category": "Electrical",
+    "partType": "wiring harness"
+  },
+  {
+    "file": "part-0769.png",
+    "category": "Belts & Hoses",
+    "partType": "control cable (Bowden cable)"
+  },
+  {
+    "file": "part-0770.png",
+    "category": "Hardware",
+    "partType": "folding hex key set (Allen keys)"
+  },
+  {
+    "file": "part-0771.png",
+    "category": "Electrical",
+    "partType": "electronic diagnostic tool / tester kit"
+  },
+  {
+    "file": "part-0772.png",
+    "category": "Gaskets & Seals",
+    "partType": "rubber seal / o-ring"
+  },
+  {
+    "file": "part-0773.png",
+    "category": "Hardware",
+    "partType": "tape measure"
+  },
+  {
+    "file": "part-0774.png",
+    "category": "Filters",
+    "partType": "grease pump bucket (lubrication dispenser)"
+  },
+  {
+    "file": "part-0775.png",
+    "category": "Filters",
+    "partType": "oil filter (spin-on canister)"
+  },
+  {
+    "file": "part-0776.png",
+    "category": "Gaskets & Seals",
+    "partType": "o-ring and seal kit"
+  },
+  {
+    "file": "part-0777.png",
+    "category": "Gaskets & Seals",
+    "partType": "o-ring seal kit"
+  },
+  {
+    "file": "part-0778.png",
+    "category": "Electrical",
+    "partType": "electrical solenoid (coil/connector)"
+  },
+  {
+    "file": "part-0779.png",
+    "category": "Electrical",
+    "partType": "control switch/lever (electrical switch)"
+  },
+  {
+    "file": "part-0780.png",
+    "category": "Hardware",
+    "partType": "assorted fittings and fasteners kit"
+  },
+  {
+    "file": "part-0781.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose assembly"
+  },
+  {
+    "file": "part-0782.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge"
+  },
+  {
+    "file": "part-0783.png",
+    "category": "Hardware",
+    "partType": "clevis pin"
+  },
+  {
+    "file": "part-0784.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket cutting edge"
+  },
+  {
+    "file": "part-0785.png",
+    "category": "Hardware",
+    "partType": "cotter pin"
+  },
+  {
+    "file": "part-0786.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket teeth (ground engaging teeth)"
+  },
+  {
+    "file": "part-0787.png",
+    "category": "Hardware",
+    "partType": "screw"
+  },
+  {
+    "file": "part-0788.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge blade segment"
+  },
+  {
+    "file": "part-0789.png",
+    "category": "Filters",
+    "partType": "oil filter"
+  },
+  {
+    "file": "part-0790.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge / blade segment"
+  },
+  {
+    "file": "part-0791.png",
+    "category": "Hardware",
+    "partType": "Pin / rod"
+  },
+  {
+    "file": "part-0792.png",
+    "category": "Hardware",
+    "partType": "assorted cotter pins / spring pins"
+  },
+  {
+    "file": "part-0793.png",
+    "category": "Undercarriage",
+    "partType": "rubber track assembly"
+  },
+  {
+    "file": "part-0794.png",
+    "category": "Hardware",
+    "partType": "pin/rod"
+  },
+  {
+    "file": "part-0795.png",
+    "category": "Hardware",
+    "partType": "hardware clips / retaining clamps"
+  },
+  {
+    "file": "part-0796.png",
+    "category": "Hardware",
+    "partType": "assorted bolts and nuts set"
+  },
+  {
+    "file": "part-0797.png",
+    "category": "Hardware",
+    "partType": "tape measure"
+  },
+  {
+    "file": "part-0798.png",
+    "category": "Gaskets & Seals",
+    "partType": "seal kit"
+  },
+  {
+    "file": "part-0799.png",
+    "category": "Electrical",
+    "partType": "electrical switch"
+  },
+  {
+    "file": "part-0800.png",
+    "category": "Gaskets & Seals",
+    "partType": "seal kit"
+  },
+  {
+    "file": "part-0801.png",
+    "category": "Ground Engaging Tools",
+    "partType": "excavator bucket"
+  },
+  {
+    "file": "part-0802.png",
+    "category": "Electrical",
+    "partType": "electrical wiring harness / connector"
+  },
+  {
+    "file": "part-0803.png",
+    "category": "Ground Engaging Tools",
+    "partType": "excavator bucket tooth/cutting edge assembly"
+  },
+  {
+    "file": "part-0804.png",
+    "category": "Ground Engaging Tools",
+    "partType": "loader bucket"
+  },
+  {
+    "file": "part-0805.png",
+    "category": "Ground Engaging Tools",
+    "partType": "dozer blade cutting edge"
+  },
+  {
+    "file": "part-0806.png",
+    "category": "Ground Engaging Tools",
+    "partType": "excavator/backhoe bucket"
+  },
+  {
+    "file": "part-0807.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bulldozer blade"
+  },
+  {
+    "file": "part-0808.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge / blade"
+  },
+  {
+    "file": "part-0809.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bulldozer blade"
+  },
+  {
+    "file": "part-0810.png",
+    "category": "Undercarriage",
+    "partType": "excavator track undercarriage"
+  },
+  {
+    "file": "part-0811.png",
+    "category": "Ground Engaging Tools",
+    "partType": "loader/backhoe bucket"
+  },
+  {
+    "file": "part-0812.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bulldozer blade"
+  },
+  {
+    "file": "part-0813.png",
+    "category": "Ground Engaging Tools",
+    "partType": "grapple (material handling attachment)"
+  },
+  {
+    "file": "part-0814.png",
+    "category": "Hardware",
+    "partType": "dump truck"
+  },
+  {
+    "file": "part-0815.png",
+    "category": "Ground Engaging Tools",
+    "partType": "forklift forks"
+  },
+  {
+    "file": "part-0816.png",
+    "category": "Undercarriage",
+    "partType": "excavator track undercarriage (tracks)"
+  },
+  {
+    "file": "part-0817.png",
+    "category": "Undercarriage",
+    "partType": "rubber track undercarriage"
+  },
+  {
+    "file": "part-0818.png",
+    "category": "Ground Engaging Tools",
+    "partType": "articulated dump truck (earthmoving equipment)"
+  },
+  {
+    "file": "part-0819.png",
+    "category": "Ground Engaging Tools",
+    "partType": "dump truck bed (ground engaging body)"
+  },
+  {
+    "file": "part-0820.png",
+    "category": "Ground Engaging Tools",
+    "partType": "excavator bucket"
+  },
+  {
+    "file": "part-0821.png",
+    "category": "Undercarriage",
+    "partType": "rubber track (compact track loader undercarriage)"
+  },
+  {
+    "file": "part-0822.png",
+    "category": "Air Inlet & Exhaust",
+    "partType": "exhaust stack pipe"
+  },
+  {
+    "file": "part-0823.png",
+    "category": "Ground Engaging Tools",
+    "partType": "wheel loader bucket"
+  },
+  {
+    "file": "part-0824.png",
+    "category": "Engine Components",
+    "partType": "engine block"
+  },
+  {
+    "file": "part-0825.png",
+    "category": "Engine Components",
+    "partType": "diesel engine assembly"
+  },
+  {
+    "file": "part-0826.png",
+    "category": "Ground Engaging Tools",
+    "partType": "grader blade (moldboard/cutting edge)"
+  },
+  {
+    "file": "part-0827.png",
+    "category": "Undercarriage",
+    "partType": "crawler track undercarriage"
+  },
+  {
+    "file": "part-0828.png",
+    "category": "Ground Engaging Tools",
+    "partType": "loader/backhoe bucket"
+  },
+  {
+    "file": "part-0829.png",
+    "category": "Undercarriage",
+    "partType": "crawler undercarriage tracks"
+  },
+  {
+    "file": "part-0830.png",
+    "category": "Ground Engaging Tools",
+    "partType": "grader blade (moldboard/cutting edge)"
+  },
+  {
+    "file": "part-0831.png",
+    "category": "Ground Engaging Tools",
+    "partType": "loader bucket"
+  },
+  {
+    "file": "part-0832.png",
+    "category": "Ground Engaging Tools",
+    "partType": "excavator bucket"
+  },
+  {
+    "file": "part-0833.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bulldozer blade"
+  },
+  {
+    "file": "part-0834.png",
+    "category": "Hydraulic System",
+    "partType": "hydraulic dump lift cylinder"
+  },
+  {
+    "file": "part-0835.png",
+    "category": "Undercarriage",
+    "partType": "crawler excavator undercarriage tracks"
+  },
+  {
+    "file": "part-0836.png",
+    "category": "Undercarriage",
+    "partType": "excavator track undercarriage (tracks)"
+  },
+  {
+    "file": "part-0837.png",
+    "category": "Hardware",
+    "partType": "t-shirt (apparel)"
+  },
+  {
+    "file": "part-0838.png",
+    "category": "Hardware",
+    "partType": "clothing/apparel (polo shirt)"
+  },
+  {
+    "file": "part-0839.png",
+    "category": "Hardware",
+    "partType": "backpack (promotional item)"
+  },
+  {
+    "file": "part-0840.png",
+    "category": "Hardware",
+    "partType": "t-shirt (apparel)"
+  },
+  {
+    "file": "part-0841.png",
+    "category": "Electrical",
+    "partType": "wristwatch (electrical timepiece)"
+  },
+  {
+    "file": "part-0842.png",
+    "category": "Electrical",
+    "partType": "wireless earbuds"
+  },
+  {
+    "file": "part-0843.png",
+    "category": "Filters",
+    "partType": "air filter"
+  },
+  {
+    "file": "part-0844.png",
+    "category": "Hardware",
+    "partType": "clamp"
+  },
+  {
+    "file": "part-0845.png",
+    "category": "Electrical",
+    "partType": "flashlight / portable work light"
+  },
+  {
+    "file": "part-0846.png",
+    "category": "Filters",
+    "partType": "hydraulic filter"
+  },
+  {
+    "file": "part-0847.png",
+    "category": "Gaskets & Seals",
+    "partType": "seal kit"
+  },
+  {
+    "file": "part-0848.png",
+    "category": "Hardware",
+    "partType": "work pants (protective clothing)"
+  },
+  {
+    "file": "part-0849.png",
+    "category": "Hardware",
+    "partType": "work jacket / protective clothing"
+  },
+  {
+    "file": "part-0850.png",
+    "category": "Hardware",
+    "partType": "t-shirt"
+  },
+  {
+    "file": "part-0851.png",
+    "category": "Hardware",
+    "partType": "safety vest (high-visibility PPE)"
+  },
+  {
+    "file": "part-0852.png",
+    "category": "Hardware",
+    "partType": "hooded jacket"
+  },
+  {
+    "file": "part-0853.png",
+    "category": "Hardware",
+    "partType": "jacket (workwear)"
+  },
+  {
+    "file": "part-0854.png",
+    "category": "Hardware",
+    "partType": "sweatshirt / apparel (not a machinery part)"
+  },
+  {
+    "file": "part-0855.png",
+    "category": "Hardware",
+    "partType": "coveralls / protective workwear"
+  },
+  {
+    "file": "part-0856.png",
+    "category": "Electrical",
+    "partType": "headlamp (headlight)"
+  },
+  {
+    "file": "part-0857.png",
+    "category": "Hardware",
+    "partType": "work boots (safety footwear)"
+  },
+  {
+    "file": "part-0858.png",
+    "category": "Filters",
+    "partType": "oil filter"
+  },
+  {
+    "file": "part-0859.png",
+    "category": "Hardware",
+    "partType": "work boot / safety boot"
+  },
+  {
+    "file": "part-0860.png",
+    "category": "Cooling System",
+    "partType": "electric radiator cooling fan assemblies"
+  },
+  {
+    "file": "part-0861.png",
+    "category": "Undercarriage",
+    "partType": "track chain / track link assembly"
+  },
+  {
+    "file": "part-0862.png",
+    "category": "Hardware",
+    "partType": "safety high-visibility jacket (workwear)"
+  },
+  {
+    "file": "part-0863.png",
+    "category": "Filters",
+    "partType": "hydraulic filter"
+  },
+  {
+    "file": "part-0864.png",
+    "category": "Hardware",
+    "partType": "safety work boots"
+  },
+  {
+    "file": "part-0865.png",
+    "category": "Hardware",
+    "partType": "work gloves"
+  },
+  {
+    "file": "part-0866.png",
+    "category": "Gaskets & Seals",
+    "partType": "seal ring / gasket"
+  },
+  {
+    "file": "part-0867.png",
+    "category": "Electrical",
+    "partType": "electrical control module / wiring harness case"
+  },
+  {
+    "file": "part-0868.png",
+    "category": "Filters",
+    "partType": "oil filter"
+  },
+  {
+    "file": "part-0869.png",
+    "category": "Filters",
+    "partType": "filter element"
+  },
+  {
+    "file": "part-0870.png",
+    "category": "Filters",
+    "partType": "air filter"
+  },
+  {
+    "file": "part-0871.png",
+    "category": "Hardware",
+    "partType": "baseball cap (hat)"
+  },
+  {
+    "file": "part-0872.png",
+    "category": "Electrical",
+    "partType": "tool bag (electrical tool kit)"
+  },
+  {
+    "file": "part-0873.png",
+    "category": "Filters",
+    "partType": "air filter (cap/housing)"
+  },
+  {
+    "file": "part-0874.png",
+    "category": "Hardware",
+    "partType": "lifting sling/rigging bag"
+  },
+  {
+    "file": "part-0875.png",
+    "category": "Filters",
+    "partType": "air filter"
+  },
+  {
+    "file": "part-0876.png",
+    "category": "Hardware",
+    "partType": "protective hard hat with chin strap"
+  },
+  {
+    "file": "part-0877.png",
+    "category": "Filters",
+    "partType": "air filter"
+  },
+  {
+    "file": "part-0878.png",
+    "category": "Hardware",
+    "partType": "hard hat (safety helmet)"
+  },
+  {
+    "file": "part-0879.png",
+    "category": "Electrical",
+    "partType": "electrical control module"
+  },
+  {
+    "file": "part-0880.png",
+    "category": "Air Inlet & Exhaust",
+    "partType": "exhaust rain cap"
+  },
+  {
+    "file": "part-0881.png",
+    "category": "Gaskets & Seals",
+    "partType": "seal kit / gasket set"
+  },
+  {
+    "file": "part-0882.png",
+    "category": "Filters",
+    "partType": "air filter"
+  },
+  {
+    "file": "part-0883.png",
+    "category": "Gaskets & Seals",
+    "partType": "o-ring seal"
+  },
+  {
+    "file": "part-0884.png",
+    "category": "Electrical",
+    "partType": "electrical control box"
+  },
+  {
+    "file": "part-0885.png",
+    "category": "Hardware",
+    "partType": "beanie hat"
+  },
+  {
+    "file": "part-0886.png",
+    "category": "Electrical",
+    "partType": "battery"
+  },
+  {
+    "file": "part-0887.png",
+    "category": "Filters",
+    "partType": "air filter element"
+  },
+  {
+    "file": "part-0888.png",
+    "category": "Hardware",
+    "partType": "pin"
+  },
+  {
+    "file": "part-0889.png",
+    "category": "Filters",
+    "partType": "hydraulic oil filter"
+  },
+  {
+    "file": "part-0890.png",
+    "category": "Gaskets & Seals",
+    "partType": "seal kit"
+  },
+  {
+    "file": "part-0891.png",
+    "category": "Hardware",
+    "partType": "pin (link/rod pin)"
+  },
+  {
+    "file": "part-0892.png",
+    "category": "Filters",
+    "partType": "oil filter"
+  },
+  {
+    "file": "part-0893.png",
+    "category": "Braking & Friction",
+    "partType": "brake pad"
+  },
+  {
+    "file": "part-0894.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth"
+  },
+  {
+    "file": "part-0895.png",
+    "category": "Gaskets & Seals",
+    "partType": "oil seal"
+  },
+  {
+    "file": "part-0896.png",
+    "category": "Filters",
+    "partType": "air filter element"
+  },
+  {
+    "file": "part-0897.png",
+    "category": "Electrical",
+    "partType": "gauge (pressure/indicator dial)"
+  },
+  {
+    "file": "part-0898.png",
+    "category": "Electrical",
+    "partType": "analog gauge (pressure/clock-style indicator)"
+  },
+  {
+    "file": "part-0899.png",
+    "category": "Gaskets & Seals",
+    "partType": "seal (rubber/felt strip seal)"
+  },
+  {
+    "file": "part-0900.png",
+    "category": "Electrical",
+    "partType": "pressure switch/sensor"
+  },
+  {
+    "file": "part-0901.png",
+    "category": "Filters",
+    "partType": "filter"
+  },
+  {
+    "file": "part-0902.png",
+    "category": "Filters",
+    "partType": "hydraulic filter"
+  },
+  {
+    "file": "part-0903.png",
+    "category": "Electrical",
+    "partType": "electrical connector / plug"
+  },
+  {
+    "file": "part-0904.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket tooth"
+  },
+  {
+    "file": "part-0905.png",
+    "category": "Electrical",
+    "partType": "electrical sensor/solenoid"
+  },
+  {
+    "file": "part-0906.png",
+    "category": "Gaskets & Seals",
+    "partType": "gasket set / seal kit"
+  },
+  {
+    "file": "part-0907.png",
+    "category": "Electrical",
+    "partType": "wristwatch"
+  },
+  {
+    "file": "part-0908.png",
+    "category": "Filters",
+    "partType": "filter element (oil/fuel filter)"
+  },
+  {
+    "file": "part-0909.png",
+    "category": "Undercarriage",
+    "partType": "track roller/undercarriage roller"
+  },
+  {
+    "file": "part-0910.png",
+    "category": "Hardware",
+    "partType": "cotter pin"
+  },
+  {
+    "file": "part-0911.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge blade"
+  },
+  {
+    "file": "part-0912.png",
+    "category": "Gaskets & Seals",
+    "partType": "seal kit"
+  },
+  {
+    "file": "part-0913.png",
+    "category": "Electrical",
+    "partType": "electrical remote control"
+  },
+  {
+    "file": "part-0914.png",
+    "category": "Electrical",
+    "partType": "electronic control module (ECU)"
+  },
+  {
+    "file": "part-0915.png",
+    "category": "Belts & Hoses",
+    "partType": "hydraulic hose"
+  },
+  {
+    "file": "part-0916.png",
+    "category": "Filters",
+    "partType": "spin-on filter"
+  },
+  {
+    "file": "part-0917.png",
+    "category": "Filters",
+    "partType": "hydraulic filter"
+  },
+  {
+    "file": "part-0918.png",
+    "category": "Belts & Hoses",
+    "partType": "nylon lifting sling strap"
+  },
+  {
+    "file": "part-0919.png",
+    "category": "Ground Engaging Tools",
+    "partType": "bucket teeth"
+  },
+  {
+    "file": "part-0920.png",
+    "category": "Filters",
+    "partType": "filter element"
+  },
+  {
+    "file": "part-0921.png",
+    "category": "Cooling System",
+    "partType": "radiator cooling fan"
+  },
+  {
+    "file": "part-0922.png",
+    "category": "Hardware",
+    "partType": "water bottle and mug (promotional merchandise)"
+  },
+  {
+    "file": "part-0923.png",
+    "category": "Electrical",
+    "partType": "calculator / electronic keypad"
+  },
+  {
+    "file": "part-0924.png",
+    "category": "Electrical",
+    "partType": "key fob / remote control"
+  },
+  {
+    "file": "part-0925.png",
+    "category": "Filters",
+    "partType": "oil filter"
+  },
+  {
+    "file": "part-0926.png",
+    "category": "Filters",
+    "partType": "air filter"
+  },
+  {
+    "file": "part-0927.png",
+    "category": "Gaskets & Seals",
+    "partType": "o-ring seal"
+  },
+  {
+    "file": "part-0928.png",
+    "category": "Filters",
+    "partType": "hydraulic oil filter"
+  },
+  {
+    "file": "part-0929.png",
+    "category": "Hardware",
+    "partType": "logo/label (not a machinery part)"
+  },
+  {
+    "file": "part-0930.png",
+    "category": "Hardware",
+    "partType": "hardware clamp"
+  },
+  {
+    "file": "part-0931.png",
+    "category": "Hardware",
+    "partType": "cap/hat (apparel item)"
+  },
+  {
+    "file": "part-0932.png",
+    "category": "Filters",
+    "partType": "hydraulic filter cartridge"
+  },
+  {
+    "file": "part-0933.png",
+    "category": "Electrical",
+    "partType": "electrical switch/sensor"
+  },
+  {
+    "file": "part-0934.png",
+    "category": "Hardware",
+    "partType": "bolt/nut hardware"
+  },
+  {
+    "file": "part-0935.png",
+    "category": "Belts & Hoses",
+    "partType": "hose (flexible line)"
+  },
+  {
+    "file": "part-0936.png",
+    "category": "Hardware",
+    "partType": "hat/cap (non-machinery item)"
+  },
+  {
+    "file": "part-0937.png",
+    "category": "Hardware",
+    "partType": "retaining clip / snap ring"
+  },
+  {
+    "file": "part-0938.png",
+    "category": "Gaskets & Seals",
+    "partType": "o-ring seal kit"
+  },
+  {
+    "file": "part-0939.png",
+    "category": "Filters",
+    "partType": "filter (spin-on canister)"
+  },
+  {
+    "file": "part-0940.png",
+    "category": "Hardware",
+    "partType": "umbrella"
+  },
+  {
+    "file": "part-0941.png",
+    "category": "Electrical",
+    "partType": "electrical switch"
+  },
+  {
+    "file": "part-0942.png",
+    "category": "Electrical",
+    "partType": "electrical component/logo label"
+  },
+  {
+    "file": "part-0943.png",
+    "category": "Electrical",
+    "partType": "switch (electrical control switch)"
+  },
+  {
+    "file": "part-0944.png",
+    "category": "Hardware",
+    "partType": "t-shirt (apparel)"
+  },
+  {
+    "file": "part-0945.png",
+    "category": "Filters",
+    "partType": "spin-on filter"
+  },
+  {
+    "file": "part-0946.png",
+    "category": "Hardware",
+    "partType": "t-shirt"
+  },
+  {
+    "file": "part-0947.png",
+    "category": "Electrical",
+    "partType": "electrical control module / gauge panel"
+  },
+  {
+    "file": "part-0948.png",
+    "category": "Hardware",
+    "partType": "stool (shop equipment)"
+  },
+  {
+    "file": "part-0949.png",
+    "category": "Undercarriage",
+    "partType": "undercarriage track chain/links"
+  },
+  {
+    "file": "part-0950.png",
+    "category": "Hardware",
+    "partType": "bolt/fastener"
+  },
+  {
+    "file": "part-0951.png",
+    "category": "Ground Engaging Tools",
+    "partType": "cutting edge blade"
+  },
+  {
+    "file": "part-0952.png",
+    "category": "Filters",
+    "partType": "air filter"
+  },
+  {
+    "file": "part-0953.png",
+    "category": "Electrical",
+    "partType": "wiring kit / electrical harness"
+  },
+  {
+    "file": "part-0954.png",
+    "category": "Filters",
+    "partType": "oil filter"
+  },
+  {
+    "file": "part-0955.png",
+    "category": "Gaskets & Seals",
+    "partType": "gasket kit / seal kit"
+  },
+  {
+    "file": "part-0956.png",
+    "category": "Filters",
+    "partType": "air filter"
+  },
+  {
+    "file": "part-0957.png",
+    "category": "Hardware",
+    "partType": "pin (dowel/clevis pin)"
+  },
+  {
+    "file": "part-0958.png",
+    "category": "Filters",
+    "partType": "oil filter"
+  },
+  {
+    "file": "part-0959.png",
+    "category": "Ground Engaging Tools",
+    "partType": "plate compactor / tamper"
+  },
+  {
+    "file": "part-0960.png",
+    "category": "Undercarriage",
+    "partType": "track roller/undercarriage component"
+  },
+  {
+    "file": "part-0961.png",
+    "category": "Hardware",
+    "partType": "clamp"
+  },
+  {
+    "file": "part-0962.png",
+    "category": "Hardware",
+    "partType": "t-shirt (not a machinery part)"
+  },
+  {
+    "file": "part-0963.png",
+    "category": "Ground Engaging Tools",
+    "partType": "excavator bucket"
+  },
+  {
+    "file": "part-0964.png",
+    "category": "Gaskets & Seals",
+    "partType": "o-ring seal kit"
+  },
+  {
+    "file": "part-0965.png",
+    "category": "Hardware",
+    "partType": "t-shirt / apparel (not a machinery part)"
+  },
+  {
+    "file": "part-0966.png",
+    "category": "Hardware",
+    "partType": "spring pin / cotter pin"
+  },
+  {
+    "file": "part-0967.png",
+    "category": "Undercarriage",
+    "partType": "sprocket segment"
+  },
+  {
+    "file": "part-0968.png",
+    "category": "Filters",
+    "partType": "hydraulic filter"
+  },
+  {
+    "file": "part-0969.png",
+    "category": "Electrical",
+    "partType": "wiring harness/electrical assembly"
+  },
+  {
+    "file": "part-0970.png",
+    "category": "Hardware",
+    "partType": "t-shirt/apparel (not a machinery part)"
+  },
+  {
+    "file": "part-0971.png",
+    "category": "Hardware",
+    "partType": "bolt (hex head)"
+  },
+  {
+    "file": "part-0972.png",
+    "category": "Hardware",
+    "partType": "t-shirt (non-part apparel)"
+  },
+  {
+    "file": "part-0973.png",
+    "category": "Gaskets & Seals",
+    "partType": "o-ring and gasket seal kit"
+  },
+  {
+    "file": "part-0974.png",
+    "category": "Hardware",
+    "partType": "t-shirt (not a machinery part)"
+  },
+  {
+    "file": "part-0975.png",
+    "category": "Filters",
+    "partType": "oil filter"
+  }
+]
