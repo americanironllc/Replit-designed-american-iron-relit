@@ -1,5 +1,11 @@
 name: Deploy to Cloudflare Pages
 
+# Required GitHub repository secrets:
+#   CLOUDFLARE_API_TOKEN  - Cloudflare API token with permissions:
+#                             * Account > Cloudflare Pages > Edit
+#                             * User > User Details > Read
+#   CLOUDFLARE_ACCOUNT_ID - Cloudflare Account ID (found in the dashboard sidebar)
+
 on:
   push:
     branches:
@@ -28,6 +34,24 @@ jobs:
 
       - name: Build frontend
         run: npm run build:cf
+
+      - name: Validate Cloudflare token
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          if [ -z "$CLOUDFLARE_API_TOKEN" ]; then
+            echo "::error::CLOUDFLARE_API_TOKEN secret is not set. Please add it in Settings > Secrets and variables > Actions."
+            exit 1
+          fi
+          if [ -z "$CLOUDFLARE_ACCOUNT_ID" ]; then
+            echo "::error::CLOUDFLARE_ACCOUNT_ID secret is not set. Please add it in Settings > Secrets and variables > Actions."
+            exit 1
+          fi
+          npx wrangler@3 whoami || {
+            echo "::error::Cloudflare API token validation failed. Ensure the token has 'Cloudflare Pages: Edit' and 'User Details: Read' permissions. Visit https://dash.cloudflare.com/profile/api-tokens to update."
+            exit 1
+          }
 
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3
