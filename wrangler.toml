@@ -1,3 +1,5 @@
 name = "american-iron"
-pages_build_output_dir = "dist/public"
 compatibility_date = "2024-01-01"
+
+[assets]
+directory = "./dist/public"
