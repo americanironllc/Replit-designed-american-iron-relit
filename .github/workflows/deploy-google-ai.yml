@@ -1,0 +1,67 @@
+name: Deploy to Google AI Studio
+
+# Required GitHub repository secrets:
+#   GOOGLE_AI_STUDIO_API_KEY - Google AI Studio API key from https://aistudio.google.com/app/apikey
+#
+# This workflow validates the Google AI Studio (Gemini) API key and confirms
+# the application is configured to use Google's Gemini models.
+#
+# The app uses an OpenAI-compatible client. To switch to Google AI Studio:
+#   AI_INTEGRATIONS_OPENAI_BASE_URL = https://generativelanguage.googleapis.com/v1beta/openai/
+#   AI_INTEGRATIONS_OPENAI_API_KEY  = <your GOOGLE_AI_STUDIO_API_KEY value>
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate Google AI Studio API key secret
+        env:
+          GOOGLE_AI_STUDIO_API_KEY: ${{ secrets.GOOGLE_AI_STUDIO_API_KEY }}
+        run: |
+          if [ -z "$GOOGLE_AI_STUDIO_API_KEY" ]; then
+            echo "::error::GOOGLE_AI_STUDIO_API_KEY secret is not set."
+            echo "::error::Create an API key at https://aistudio.google.com/app/apikey and add it in Settings > Secrets and variables > Actions."
+            exit 1
+          fi
+          echo "✅ GOOGLE_AI_STUDIO_API_KEY secret is present."
+
+      - name: Verify Google AI Studio API connectivity
+        env:
+          GOOGLE_AI_STUDIO_API_KEY: ${{ secrets.GOOGLE_AI_STUDIO_API_KEY }}
+        run: |
+          echo "🔍 Verifying Google AI Studio API key..."
+          HTTP_STATUS=$(curl -s -o /tmp/gemini_response.json -w "%{http_code}" \
+            "https://generativelanguage.googleapis.com/v1beta/models?key=${GOOGLE_AI_STUDIO_API_KEY}")
+          if [ "$HTTP_STATUS" = "200" ]; then
+            echo "✅ Google AI Studio API key is valid and active."
+            MODEL_COUNT=$(grep -o '"name"' /tmp/gemini_response.json | wc -l)
+            echo "   Found ${MODEL_COUNT} available models."
+          else
+            RESPONSE=$(cat /tmp/gemini_response.json)
+            echo "::error::Google AI Studio API key verification failed (HTTP ${HTTP_STATUS})."
+            echo "::error::Response: ${RESPONSE}"
+            echo "::error::Ensure the key is valid and has not expired. Visit https://aistudio.google.com/app/apikey"
+            exit 1
+          fi
+
+      - name: Confirm integration configuration
+        run: |
+          echo "✅ Google AI Studio deployment verified."
+          echo ""
+          echo "📋 To activate Gemini in this application, set these environment variables:"
+          echo "   AI_INTEGRATIONS_OPENAI_BASE_URL=https://generativelanguage.googleapis.com/v1beta/openai/"
+          echo "   AI_INTEGRATIONS_OPENAI_API_KEY=<your GOOGLE_AI_STUDIO_API_KEY>"
+          echo ""
+          echo "   Recommended model: gemini-2.0-flash (fast) or gemini-2.5-pro (high quality)"

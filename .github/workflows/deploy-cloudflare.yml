@@ -2,7 +2,7 @@ name: Deploy to Cloudflare
 
 # Required GitHub repository secrets:
 #   CLOUDFLARE_API_TOKEN  - Cloudflare API token with permissions:
-#                             * Account > Workers Scripts > Edit
+#                             * Account > Cloudflare Pages > Edit
 #                             * User > User Details > Read
 #   CLOUDFLARE_ACCOUNT_ID - Cloudflare Account ID (found in the dashboard sidebar)
 
@@ -49,13 +49,13 @@ jobs:
             exit 1
           fi
           npx wrangler@3 whoami || {
-            echo "::error::Cloudflare API token validation failed. Ensure the token has 'Workers Scripts: Edit' and 'User Details: Read' permissions. Visit https://dash.cloudflare.com/profile/api-tokens to update."
+            echo "::error::Cloudflare API token validation failed. Ensure the token has 'Account > Cloudflare Pages > Edit' and 'User Details: Read' permissions. Visit https://dash.cloudflare.com/profile/api-tokens to update."
             exit 1
           }
 
-      - name: Deploy to Cloudflare
+      - name: Deploy to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: deploy
+          command: pages deploy dist/public --project-name american-iron
